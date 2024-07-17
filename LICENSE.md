@@ -395,6 +395,7 @@ public licenses.
 Creative Commons may be contacted at creativecommons.org.
 
 =======================================================================
+
 Non-Assertion Covenant for Standards Track Project Specifications
 
 In addition to the above license, each Contributor also agrees in the CLA to provide the additional covenants as non-assertion covenants for any Project Specifications as explained in the OASIS Open Project Rules Section 15.3 and reproduced below:
