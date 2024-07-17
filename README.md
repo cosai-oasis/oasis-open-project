@@ -1,4 +1,4 @@
-<img src="artwork/tbd" width="400">
+<img src="artwork/cosai-logo.png" width="400">
 
 # Coalition for Secure AI (CoSAI) OASIS Open Project
 
