@@ -36,5 +36,5 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details how to join the proje
 
 # CLA & Non-assert signatures required
 
-All technical contributions must be covered by a Contributor's License Agreement. This requirement allows our work to advance through OASIS standards development stages and potentially be submitted to de jure organizations such as ISO. You will get a prompt to sign this document when you submit your first pull request to a project repository, or you can sign [here](https://www.oasis-open.org/open-projects/cla/oasis-open-projects-individual-contributor-license-agreement-i-cla/). If you are contributing on behalf of your employer, you must also sign the ECLA [here](https://www.oasis-open.org/open-projects/cla/entity-cla-20210630/).
+All technical contributions must be covered by a Contributor License Agreement (CLA). This requirement allows our work to advance through OASIS standards development stages and potentially be submitted to de jure organizations such as ISO. You will get a prompt to sign this document when you submit your first pull request to a project repository, or you can sign [here](https://cla-assistant.io/cosai-oasis/oasis-open-project). If you are contributing on behalf of your employer, you must also sign the Entityt CLA [here](https://www.oasis-open.org/open-projects/cla/entity-cla-20210630/).
 
