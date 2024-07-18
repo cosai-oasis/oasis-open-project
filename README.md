@@ -2,39 +2,41 @@
 
 # Coalition for Secure AI (CoSAI) OASIS Open Project
 
-CoSAI is an [OASIS Open Project](https://www.oasis-open.org/open-projects/) [purpose statement goes here.]
+CoSAI is an [OASIS Open Project](https://www.oasis-open.org/open-projects/) and an open ecosystem of AI and security experts from industry leading organizations dedicated to sharing best practices for secure AI deployment and collaborating on AI security research and product development. 
 
-For more information on CoSAI, see the project's website at [url].
+For more information on CoSAI, see the project's website at [coalitionforsecureai.org](https://www.coalitionforsecureai.org/).
 
 For more information on the goals of this effort, see the [project charter](./CHARTER.md). 
 
-General questions about OASIS Open Projects may be directed to OASIS staff at project-admin@lists.oasis-open-projects.org
+General questions about OASIS Open Projects may be directed to OASIS staff at [project-admin@lists.oasis-open-projects.org](mailto:project-admin@lists.oasis-open-projects.org).
 
 # Other assets
 
 In addition to this GitHub organization, this project also makes use of other assets. 
 
-- The [Open Project name] website is at [url to website]. The website contains news, announcements, and other information of interest about the project. 
+- The CoSAI website is at [coalitionforsecureai.org](https://www.coalitionforsecureai.org/). 
 
-- [General purpose mailing list](url for list archive). To subscribe, send an empty email message to [subscription email]. Anyone interested is welcome to subscribe and send email to the list. The list maintains an [archive](url to archive).
+- You can find the [general annoucement mailing list here](https://lists.oasis-open-projects.org/g/cosai-op). To subscribe, send an empty email message to [cosai-op@lists.oasis-open-projects.org](mailto:cosai-op+subscribe@lists.oasis-open-projects.org). Anyone interested is welcome to subscribe, The list maintains an [archive](https://lists.oasis-open-projects.org/g/cosai-op/messages).
 
-- [Project Governing Board mailing list](url for list archive). This is the discussion list for use by the members of the PGB. To subscribe, send an empty email message to [subscription email]. Anyone interested is welcome to subscribe read-only. The list maintains an [archive](url to archive).
+- The [Project Governing Board (PGB) mailing list](https://lists.oasis-open-projects.org/g/cosai-pgb) is used for discussion of PGB members. To subscribe, send an empty email message to [this address](mailto:cosai-pgb+subscribe@lists.oasis-open-projects.org). Anyone interested is welcome to subscribe read-only. The list maintains an [archive](https://lists.oasis-open-projects.org/g/cosai-pgb/messages).
 
-- [Technical Steering Committee mailing list](url for list archive). This is the discussion list for use by the members of the TSC. To subscribe, send an empty email message to [subscription email]. Anyone interested is welcome to subscribe read-only. The list maintains an [archive](url to archive).
-
-[descriptions and links to any other resources we or they may set up such as a Slack channel].
-
-[note that we may want to allow the project to list project repositories here as Ethereum has done.]
+- Coming soon – Technical Steering Committee mailing list. 
 
 # Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details how to join the project, contribute changes to our repositories and communicate with the rest of the project contributors. Please become familiar with and follow the [code of conduct](CODE-OF-CONDUCT.md).
 
-# Governance
+# Governance and Licenses
 
-[Open Project name] operates under the terms of the [Open Project Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process) and the applicable license(s) specified in [LICENSE.md](LICENSE.md). Further details can be found in [GOVERNANCE.md](GOVERNANCE.md).
+CoSAI operates under the terms of the [Open Project Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process) and the following the licenses:
+* CC-BY 4.0 for documentation and data contributions; and
+*  Apache License v2.0 for source code and models
+  
+The applicable license will be determined for each repository, as applicable, at the time of its
+creation.
+
 
 # CLA & Non-assert signatures required
 
-All technical contributions must be covered by a Contributor License Agreement (CLA). This requirement allows our work to advance through OASIS standards development stages and potentially be submitted to de jure organizations such as ISO. You will get a prompt to sign this document when you submit your first pull request to a project repository, or you can sign [here](https://cla-assistant.io/cosai-oasis/oasis-open-project). If you are contributing on behalf of your employer, you must also sign the Entityt CLA [here](https://www.oasis-open.org/open-projects/cla/entity-cla-20210630/).
+All technical contributions must be covered by a Contributor License Agreement (CLA). This requirement allows our work to advance through OASIS standards development stages and potentially be submitted to de jure organizations such as ISO. You will get a prompt to sign this document when you submit your first pull request to a project repository, or you can sign [here](https://cla-assistant.io/cosai-oasis/oasis-open-project). If you are contributing on behalf of your employer, you must also sign the Entity CLA [here](https://www.oasis-open.org/open-projects/cla/entity-cla-20210630/).
 
