@@ -1,4 +1,6 @@
-# CoSAI Open Project Governance -- DRAFT until approved by the PGB
+# CoSAI Open Project Governance 
+
+_This document was approved by the CoSAI PGB, 22 July 2024._
 
 This document defines the Coalition for Secure AI (CoSAI) Open Project governance. This document changes infrequently by the process defined below.
 
