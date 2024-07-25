@@ -1,4 +1,4 @@
-<img src="<logo>" width="300">
+<img src="./artwork/cosai-logo.png" width="300">
 
 # Coalition for Secure AI (CoSAI) Project Governing Board (PGB)
 
