@@ -22,5 +22,6 @@ Starred organizations have taken the additional step of signing the enterprise c
 ## Sponsors
 * [Blinder AI](https://blinderai.com/)
 * [Harvey](https://www.harvey.ai/)
+* [Legit Security](https://www.legitsecurity.com/)
 * [Protect AI](https://protectai.com/) &bigstar; &bigtriangledown;
   
