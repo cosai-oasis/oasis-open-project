@@ -4,7 +4,7 @@
 
 <p>The Project Governing Board sets overall strategic direction of the CoSAI project and formally approves released work products.</p>
 
-<p>PGB members include representatives of <a href="[link to]SPONSORS.md">[OP short name] Sponsor organizations</a> and representatives from the community at-large who serve on the Technical Steering Committee:</p>
+<p>PGB members include representatives of <a href="./SPONSORS.md">CoSAI Sponsor organizations</a> and representatives from the community at-large who serve on the Technical Steering Committee:</p>
 
 <p><i>PGB Co-Chairs</i>: David LaBianca, Omar Santos</p>
 
