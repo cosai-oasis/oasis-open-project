@@ -20,7 +20,7 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [WIZ](https://www.wiz.io/) &bigstar;
 
 ## Sponsors
-* [Blinder AI](https://blinderai.com/)
+* [Blinder AI](https://blinderai.com/) &bigstar;
 * [Harvey](https://www.harvey.ai/)
 * [HiddenLayer](https://hiddenlayer.com/)
 * [Legit Security](https://www.legitsecurity.com/)
