@@ -24,4 +24,5 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [Harvey](https://www.harvey.ai/)
 * [Legit Security](https://www.legitsecurity.com/)
 * [Protect AI](https://protectai.com/) &bigstar; &bigtriangledown;
+* [Zscaler](https://www.zscaler.com/) &bigtriangledown;
   
