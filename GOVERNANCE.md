@@ -123,7 +123,7 @@ All substantive changes in Governance require a [Full Majority Vote](https://www
 
 ## Approved Committees
 
-### Executive Steering Committee
+### Executive Steering Committee (approved by the PGB on 29 July)
 The Executive Steering Committee shall be composed of Premier sponsors and Founding Members of the CoSAI PGB. This structure will be re-evaluated after one year. The Chair(s) of the Executive Steering Committee will be the same as the Chairs of the PGB. 
 
 [Founding Members](https://github.com/cosai-oasis/oasis-open-project/blob/main/SPONSORS.md) are considered as organizations who signed the membership agreement prior to the official project launch on July 18, 2024. 
