@@ -1,6 +1,6 @@
 # CoSAI Open Project Governance 
 
-_This document was approved by the CoSAI PGB, 22 July 2024._
+_This document was approved by the CoSAI PGB, 22 July 2024. Updates were approved by the PGB on 29 July 2024_
 
 This document defines the Coalition for Secure AI (CoSAI) Open Project governance. This document changes infrequently by the process defined below.
 
@@ -55,7 +55,7 @@ Promoting work to stages in the OASIS standards track (Project Specification Dra
 ### Technical Steering Committee (TSC) 
 The TSC is responsible for the overall technical health and direction of the project and advises the PGB on such matters. Further, the TSC is responsible for releases, and overseeing work of Workstreams, WS Chairs, Contributors, and Maintainers.
 
-All sponsoring organizations have the option for one TSC representative. This person may be different from the PGB representative and should be a subject matter expert.
+[Premier Sponsors and Founding Sponsors](https://github.com/cosai-oasis/oasis-open-project/blob/main/SPONSORS.md) will have the option for one TSC Representative. This person may be different from the PGB representative and should be a subject matter expert.
 
 The PGB also creates a set number of TSC seats for non-sponsoring participants which are held for academic institutions, non-profit organizations, and other non-commercial entities such as government organizations. These members should also participate in at least one Workstream.
 
@@ -63,7 +63,7 @@ The PGB also creates a set number of TSC seats for non-sponsoring participants w
 * TSC members representing sponsoring members are selected by that sponsoring member as they know their talent the best. This person can be switched out with prior notice to the PGB and OASIS staff. 
 * Appointment for the non-sponsor seats is done by a consensus vote by the PGB up the number of seats previously set by the PGB.
 
-The PGB can adjust the process for populating the TSC and its structure once the project is more established and the membership number normalizes. 
+The PGB can adjust the process for populating the TSC once the membership number normalizes and will review this rule on TSC membership eligibility, including non-sponsor seats, on an annual basis.
 
 The PGB can also reappoint or re-confirm the non-sponsor seats on an annual basis.
 
@@ -120,3 +120,12 @@ All participants must also abide by the terms of the [OASIS Participants Code of
 
 ## Updating Governance
 All substantive changes in Governance require a [Full Majority Vote](https://www.oasis-open.org/policies-guidelines/oasis-defined-terms-2018-05-22#dFullMajority) of the PGB.
+
+## Approved Committees
+
+### Executive Steering Committee
+The Executive Steering Committee shall be composed of Premier sponsors and Founding Members of the CoSAI PGB. This structure will be re-evaluated after one year. The Chair(s) of the Executive Steering Committee will be the same as the Chairs of the PGB. 
+
+[Founding Members](https://github.com/cosai-oasis/oasis-open-project/blob/main/SPONSORS.md) are considered as organizations who signed the membership agreement prior to the official project launch on July 18, 2024. 
+
+Duties of this Committee could include but are not limited to drafting PGB meeting agendas, draft strategy and communications plans for the entire PGB's feedback, coordinating the use of supplemental services for Premier Sponsor allocations, and more. The Executive Steering Committee will act in the best interest of the entire PGB and Open Project.
