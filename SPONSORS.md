@@ -26,5 +26,7 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [HiddenLayer](https://hiddenlayer.com/) &bigstar;
 * [Legit Security](https://www.legitsecurity.com/) &bigstar;
 * [Protect AI](https://protectai.com/) &bigstar; &bigtriangledown;
+* [VE3](https://www.ve3.global/) &bigstar;
 * [Zscaler](https://www.zscaler.com/) &bigtriangledown;
+  
   
