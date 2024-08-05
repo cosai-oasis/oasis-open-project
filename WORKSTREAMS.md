@@ -1,4 +1,6 @@
-# CoSAI Workstreams -- DRAFT
+# CoSAI Workstreams
+
+_This document was approved by the PGB on 4 August 2024_
 
 ## Purpose
 This document lists milestones and deliverables for the initial three CoSAI workstreams. These workstreams are listed in the [CoSAI Charter](./CHARTER.md) and are exemplary of the type of work that project members would collaborate on with our partners across the industry and academia.
