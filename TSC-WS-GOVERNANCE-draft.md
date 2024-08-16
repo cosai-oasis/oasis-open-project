@@ -34,7 +34,7 @@ All TSC members are expected to attend the committee meetings on a regular basis
 
 Every TSC member is required to be involved in at least one workstream.
 
-The TSC in coordination with the PGB, is responsible for setting a roadmap for each Workstream.The PGB is expected to provide a workstream scope and vision which enables the TSC to utilize their subject matter expertise to determine the path toward completion. The TSC then oversees the implementation of the roadmap by the individual workstream leads, ensuring its successful execution.
+The TSC in coordination with the PGB, is responsible for setting a roadmap for each Workstream. The PGB is expected to provide a workstream scope and vision which enables the TSC to utilize their subject matter expertise to determine the path toward completion. The TSC then oversees the implementation of the roadmap by the individual workstream leads, ensuring its successful execution.
 
 ## Workstreams (WS)
 The purpose of the workstreams is to divide up the work of the open project into manageable work packages. Workstreams will be determined by the PGB and shared with the TSC for execution. 
