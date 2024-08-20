@@ -14,7 +14,7 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [IBM](https://www.ibm.com) &bigstar; &bigtriangledown;
 * [Intel](https://www.intel.com) &bigstar; &bigtriangledown;
 * [Microsoft](https://www.microsoft.com/) &bigstar; &bigtriangledown;
-* [NVIDIA](https://www.nvidia.com/en-us/) &bigtriangledown;
+* [NVIDIA](https://www.nvidia.com/en-us/) &bigstar; &bigtriangledown;
 * [OpenAI](https://openai.com/) &bigstar;
 * [PayPal](https://www.paypal.com/) &bigstar; &bigtriangledown;
 * [WIZ](https://www.wiz.io/) &bigstar;
@@ -24,12 +24,13 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [Cranium](https://www.cranium.ai/)
 * [Harvey](https://www.harvey.ai/) &bigstar;
 * [HiddenLayer](https://hiddenlayer.com/) &bigstar;
+* [Invariant Labs](https://invariantlabs.ai/) &bigstar;
 * [Legit Security](https://www.legitsecurity.com/) &bigstar;
 * [Logitech](https://www.logitech.com/)
 * [Mozilla](https://www.mozilla.org/en-US/?v=2) &bigstar;
 * [Protect AI](https://protectai.com/) &bigstar; &bigtriangledown;
-* [Styrk AI](https://styrk.ai/)
-* [Trend Micro](https://www.trendmicro.com/) &bigtriangledown;
+* [Styrk AI](https://styrk.ai/) &bigstar;
+* [Trend Micro](https://www.trendmicro.com/) &bigstar; &bigtriangledown;
 * [VE3](https://www.ve3.global/) &bigstar;
 * [Zscaler](https://www.zscaler.com/) &bigtriangledown;
   
