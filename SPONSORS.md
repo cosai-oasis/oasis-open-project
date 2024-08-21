@@ -7,7 +7,7 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [Amazon](https://www.aboutamazon.com/) &bigstar;
 * [Anthropic](https://www.anthropic.com/) &bigstar;
 * [Chainguard](https://www.chainguard.dev/) &bigstar;
-* [CISCO](https://www.cisco.com/)&bigstar;
+* [Cisco](https://www.cisco.com/)&bigstar;
 * [Cohere](https://cohere.com/) &bigstar;
 * [GenLab](https://www.genlab.studio/) &bigstar;
 * [Google](https://about.google/) &bigstar; &bigtriangledown;
