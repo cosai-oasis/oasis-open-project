@@ -1,4 +1,4 @@
-# CoSAI TSC and Workstream Governance (Draft)
+# CoSAI TSC and Workstream Governance 
 
 ## Purpose of the Technical Steering Committee (TSC)
 The TSC is responsible for the overall technical health and direction of the project and advises the PGB on such matters. Further, the TSC is responsible for releases and overseeing work of Workstreams, WS Chairs, Contributors, and Maintainers.
