@@ -1,4 +1,4 @@
-# CoSAI Marketing Committee Guidelines -- DRAFT
+# CoSAI Marketing Committee Guidelines
 
 The CoSAI Marketing Committee (MC) is responsible for promoting the mission of the Coalition by conducting official CoSAI-hosted marketing activities and by amplifying sponsor-hosted promotional activities related to CoSAI. The MC operates under the direction of the CoSAI Project Governing Board (PGB) with support from OASIS staff.
 
