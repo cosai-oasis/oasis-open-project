@@ -23,6 +23,7 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [Blinder AI](https://blinderai.com/) &bigstar;
 * [Cranium](https://www.cranium.ai/)
 * [Cyware](https://cyware.com/)
+* [Fr0ntierX](https://www.fr0ntierx.com/)
 * [Harvey](https://www.harvey.ai/) &bigstar;
 * [HiddenLayer](https://hiddenlayer.com/) &bigstar;
 * [Invariant Labs](https://invariantlabs.ai/) &bigstar;
