@@ -20,20 +20,21 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [WIZ](https://www.wiz.io/) &bigstar;
 
 ## Sponsors
+* [EY](https://www.ey.com/en_us) &bigtriangledown;
 * [Blinder AI](https://blinderai.com/) &bigstar;
 * [Cranium](https://www.cranium.ai/)
-* [Cyware](https://cyware.com/)
+* [Cyware](https://cyware.com/) &bigstar;
 * [Fr0ntierX](https://www.fr0ntierx.com/)
 * [Harvey](https://www.harvey.ai/) &bigstar;
 * [HiddenLayer](https://hiddenlayer.com/) &bigstar;
 * [Invariant Labs](https://invariantlabs.ai/) &bigstar;
 * [Legit Security](https://www.legitsecurity.com/) &bigstar;
-* [Logitech](https://www.logitech.com/)
+* [Logitech](https://www.logitech.com/) &bigstar;
 * [Mozilla](https://www.mozilla.org/en-US/?v=2) &bigstar;
 * [Protect AI](https://protectai.com/) &bigstar; &bigtriangledown;
 * [Styrk AI](https://styrk.ai/) &bigstar;
 * [Trend Micro](https://www.trendmicro.com/) &bigstar; &bigtriangledown;
 * [VE3](https://www.ve3.global/) &bigstar;
-* [Zscaler](https://www.zscaler.com/) &bigtriangledown;
+* [Zscaler](https://www.zscaler.com/) &bigstar; &bigtriangledown;
   
   
