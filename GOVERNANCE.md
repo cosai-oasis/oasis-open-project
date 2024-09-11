@@ -83,7 +83,7 @@ All TSC members are expected to attend the committee meetings on a regular basis
 Any community member may submit a request for recall of a TSC chair to the PGB at any time by submitting the request and sufficient justification to the PGB chair or co-chairs. Such requests shall be held in confidence by the PGB chair or co-chairs. In the event of receipt of such a request, the chair or co-chairs shall schedule the recall as an item for discussion at the next PGB meeting, which shall be held no later than 30 days after the receipt of the request. After subsequent discussion, the recall shall be decided upon by a [Full Majority Vote](https://www.oasis-open.org/policies-guidelines/oasis-defined-terms-2018-05-22#dFullMajority) of the PGB. In the event of a recall vote passing, the TSC chair shall at that time be considered immediately recalled and be relieved of all responsibilities conferred via the position. If needed, a new TSC Chair or Co-Chair shall be appointed by the PGB.
 
 ### Workstreams
-Workstreams (WS) are defined by the PGB. Topic, scope, milestones, and deliverables for each WS are also defined by the PGB. See this file (## TBD) for the initial workstreams and deliverables.
+Workstreams (WS) are defined by the PGB. Topic, scope, milestones, and deliverables for each WS are also defined by the PGB. See [this file](./WORKSTREAMS.md) for the initial workstreams and deliverables.
 
 Workstream contributors can also propose amendments to the scope and deliverables for their workstream to the TSC. This feedback may be communicated by the Workstream Chair.
 
