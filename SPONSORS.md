@@ -28,6 +28,7 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [Harvey](https://www.harvey.ai/) &bigstar;
 * [HiddenLayer](https://hiddenlayer.com/) &bigstar;
 * [Invariant Labs](https://invariantlabs.ai/) &bigstar;
+* [Lasso Security](https://www.lasso.security/)
 * [Legit Security](https://www.legitsecurity.com/) &bigstar;
 * [Logitech](https://www.logitech.com/) &bigstar;
 * [Mozilla](https://www.mozilla.org/en-US/?v=2) &bigstar;
