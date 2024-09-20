@@ -12,7 +12,7 @@ The following members constitute the TSC (in alphabetical order by first name):
 * Hsien-Hsin "Sean"	Lee (Intel)
 * Ian	Brelinsky (OpenAI)
 * Jen	Silk (Paypal)
-* Josiah Hagen (Trend Mirco)
+* Josiah Hagen (Trend Micro)
 * JR Rao (IBM) – Co-Chair
 * Matt Maloney (Cohere)
 * Matt Saner (Amazon)
