@@ -5,7 +5,8 @@ The TSC is made up out of representing [Premier Sponsors and Founding Sponsors](
 The following members constitute the TSC (in alphabetical order by first name):
 
 * Akila Srinivasan (Anthropic) - Co-Chair
-* Anand Raghavan (Cisco)
+* Andre Elizondo (Wiz)
+* Dan Mellen (EY)
 * Daniel Rohrer (NVIDIA)
 * Dustin Kirkland (Chainguard)
 * Eoin Wichens (Hidden Layer)
@@ -17,6 +18,7 @@ The following members constitute the TSC (in alphabetical order by first name):
 * Matt Maloney (Cohere)
 * Matt Saner (Amazon)
 * Michael	Scovetta (Microsoft)
+* Omar Santos (Cisco)
 * Peng Ning (Google)
 * Sarah Novotny (Gen Labs)
 * Sean Morgan (Protect AI)
