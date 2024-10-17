@@ -21,7 +21,7 @@ Examples of these risks include stealing the model, data poisoning of the traini
 The project does not envision the following topics as being in scope: misinformation, hallucinations, hateful or abusive content, bias, malware generation, phishing content generation or other topics in the domain of content safety.
 
 ## 5. Milestones and Deliverables 
-* By EoQ4, a paper offering a preliminary expertise and landscape survey from members on each of the 3 founding workstreamings 
+* By EoQ4, a paper offering a preliminary expertise and landscape survey from members on each of the 3 founding workstreams
   * Software Supply Chain Security for AI systems 
     * Including composition and provenance and use in AI Applications 
   * Preparing Defenders for a Changing Cybersecurity Landscape 
