@@ -61,7 +61,7 @@ In addition to those represented on the TSC, anyone in the CoSAI community that 
 
 All technical and standards-related work of each workstream is maintained publicly in the Github repositories of the individual workstreams.
 
-Anyone can get involved and start contributing by requesting to join a WS mailing list, attending WS meetings, submitting an issue or a PR to a repository, or by participating in other official project tools.
+Anyone can get involved and start contributing by requesting to join a WS mailing list, attending WS meetings, submitting an issue or a PR to a repository, or by participating in other official project tool.
 
 In general, a **CoSAI Contributor** is expected to:
 * Be knowledgeable in one or more fields related to the project
