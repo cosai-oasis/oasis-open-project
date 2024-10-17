@@ -129,3 +129,9 @@ The Executive Steering Committee shall be composed of Premier sponsors and Found
 [Founding Members](https://github.com/cosai-oasis/oasis-open-project/blob/main/SPONSORS.md) are considered as organizations who signed the membership agreement prior to the official project launch on July 18, 2024. 
 
 Duties of this Committee could include but are not limited to drafting PGB meeting agendas, draft strategy and communications plans for the entire PGB's feedback, coordinating the use of supplemental services for Premier Sponsor allocations, and more. The Executive Steering Committee will act in the best interest of the entire PGB and Open Project.
+
+### Public Sector Committee (approved by the PGB on 24 September 2024) 
+The PSC is a subcommittee of the PGB. Any PGB member or their alternate can join this committee, but no organization can have more than one vote.
+
+The purpose of the Public Sector Committee (PSC) is to define and document how CoSAI members and contributors engage and interact with in-scope standards bodies, civil society entities, and non-legislative government entities.
+The committee is responsible for developing and proposing the overall public sector engagement strategy and implementation. See [Public Sector Committee Governance](https://github.com/cosai-oasis/oasis-open-project/blob/main/PUBLIC-SECTOR-COMMITTEE-GOVERNANCE.md) for more details.  
