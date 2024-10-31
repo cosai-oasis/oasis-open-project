@@ -9,7 +9,7 @@ The following members constitute the TSC (in alphabetical order by first name):
 * Dan Mellen (EY)
 * Daniel Rohrer (NVIDIA)
 * Dustin Kirkland (Chainguard)
-* Eoin Wichens (Hidden Layer)
+* Eoin Wickens (Hidden Layer)
 * Hsien-Hsin "Sean"	Lee (Intel)
 * Ian	Brelinsky (OpenAI)
 * Joshua Chou (Paypal)
