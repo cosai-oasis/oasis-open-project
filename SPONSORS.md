@@ -23,8 +23,8 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [Blinder AI](https://blinderai.com/) &bigstar;
 * [Cranium](https://www.cranium.ai/)
 * [Cyware](https://cyware.com/) &bigstar;
-* [Dell](https://www.dell.com/)
-* [EY](https://www.ey.com/en_us) &bigtriangledown;
+* [Dell](https://www.dell.com/) &bigstar;
+* [EY](https://www.ey.com/en_us) &bigstar; &bigtriangledown; 
 * [Fr0ntierX](https://www.fr0ntierx.com/) &bigstar;
 * [Harvey](https://www.harvey.ai/) &bigstar;
 * [HiddenLayer](https://hiddenlayer.com/) &bigstar;
@@ -33,12 +33,12 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [Legit Security](https://www.legitsecurity.com/) &bigstar;
 * [Logitech](https://www.logitech.com/) &bigstar;
 * [Mozilla](https://www.mozilla.org/en-US/?v=2) &bigstar;
-* [Opal Security](https://opal.dev/)
+* [Opal Security](https://opal.dev/) &bigstar;
 * [Protect AI](https://protectai.com/) &bigstar; &bigtriangledown;
 * [Styrk AI](https://styrk.ai/) &bigstar;
 * [Thomson Reuters](http://thomsonreuters.com/) &bigstar;
 * [Trend Micro](https://www.trendmicro.com/) &bigstar; &bigtriangledown;
-* [TrojAI](https://www.troj.ai/)
+* [TrojAI](https://www.troj.ai/) &bigstar;
 * [VE3](https://www.ve3.global/) &bigstar;
 * [Zscaler](https://www.zscaler.com/) &bigstar; &bigtriangledown;
   
