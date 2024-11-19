@@ -2,7 +2,7 @@
 
 ## How to contribute?
 
-The Coalition for Secure AI (CoSAI) is an open-source project that is actively seeking contributions from any willing participants. Here are some guidelines for people that would like to contribute to the project.
+The [Coalition for Secure AI (CoSAI)](https://www.coalitionforsecureai.org/) is an open-source project that is actively seeking contributions from any willing participants. Here are some guidelines for people that would like to contribute to the project.
 
 In general, a CoSAI Contributor is expected to:
 * be knowledgeable in one or more fields related to the project
@@ -49,11 +49,11 @@ Major changes on Github or to a WS document using any other official project pla
 
 ### Branch naming
 
-* ```main``` – main development branch, feature and release branches branched from it, changes only through the PR process.
-* ```feature``` – feature/this-is-a-new-feature-branch
-* ```codebugfix``` – codebugfix/name-of-the-bug
-* ```languagefix``` - languagefix/fix-details
-* ```release``` – release/1.0.0 - cut from main when ready
+* `main` – main development branch, feature and release branches branched from it, changes only through the PR process.
+* `feature` – feature/this-is-a-new-feature-branch
+* `codebugfix` – codebugfix/name-of-the-bug
+* `languagefix` - languagefix/fix-details
+* `release` – release/1.0.0 - cut from main when ready
 
 ### Rebasing note
 
