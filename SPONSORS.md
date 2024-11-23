@@ -34,6 +34,7 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [Logitech](https://www.logitech.com/) &bigstar;
 * [Mozilla](https://www.mozilla.org/en-US/?v=2) &bigstar;
 * [Opal Security](https://opal.dev/) &bigstar;
+* [Palo Alto Networks](https://www.paloaltonetworks.com/) &bigtriangledown;
 * [Protect AI](https://protectai.com/) &bigstar; &bigtriangledown;
 * [Styrk AI](https://styrk.ai/) &bigstar;
 * [Thomson Reuters](http://thomsonreuters.com/) &bigstar;
