@@ -20,6 +20,7 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [WIZ](https://www.wiz.io/) &bigstar;
 
 ## Sponsors
+* [AIM Security](https://www.aim.security/) &bigstar;
 * [Blinder AI](https://blinderai.com/) &bigstar;
 * [CipherData](https://www.cipherdata.ai/) &bigstar;
 * [Cranium](https://www.cranium.ai/) &bigstar;
