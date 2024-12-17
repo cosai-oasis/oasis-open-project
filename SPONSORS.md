@@ -21,7 +21,8 @@ Starred organizations have taken the additional step of signing the enterprise c
 
 ## Sponsors
 * [Blinder AI](https://blinderai.com/) &bigstar;
-* [Cranium](https://www.cranium.ai/)
+* [CipherData](https://www.cipherdata.ai/) &bigstar;
+* [Cranium](https://www.cranium.ai/) &bigstar;
 * [Cyware](https://cyware.com/) &bigstar;
 * [Dell](https://www.dell.com/) &bigstar;
 * [EY](https://www.ey.com/en_us) &bigstar; &bigtriangledown; 
@@ -32,6 +33,7 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [Lasso Security](https://www.lasso.security/) &bigstar;
 * [Legit Security](https://www.legitsecurity.com/) &bigstar;
 * [Logitech](https://www.logitech.com/) &bigstar;
+* [Magic Mirror Security](https://www.magicmirrorsecurity.com/) &bigstar;
 * [Mozilla](https://www.mozilla.org/en-US/?v=2) &bigstar;
 * [Opal Security](https://opal.dev/) &bigstar;
 * [Operant AI](https://www.operant.ai/) &bigstar;
