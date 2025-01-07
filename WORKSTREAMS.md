@@ -43,3 +43,16 @@ Develop a risk and controls taxonomy, checklist, and scorecard to guide practiti
 * Tradeoffs of data control invariants and PETs [(link)](https://en.wikipedia.org/wiki/Privacy-enhancing_technologies) including Differential Privacy, TEEs / confidential computing, etc and the related impacts to model performance or other security and technical robustness properties
 * Launch rubric or scorecard for evaluating organizational readiness for secure AI integration and use, based on the capability of the AI system
 
+### Secure Design of Agentic Systems
+Research and develop secure design patterns for AI-based agentic systems including updates to AI usage threat models, conceptual high-level secure design pattern(s), impacts to secure infrastructure design, and other agent integration and use based needs
+
+#### Proposed Deliverables, Milestones & In-scope Efforts
+* Develop a domain-specific scope covering key areas of investment, research, and need for agentic system security. Efforts will minimally include the following areas:
+  * threat model updates
+  * conceptual, high-level secure design patterns for agentic systems
+  * research and development of secure identity patterns for agentic systems
+* Develop an agentic-specific security threat model update in collaboration with other CoSAI workstreams
+* Develop a conceptual secure design pattern for implementing / controling agentic systems
+* Develop an secure agentic identity whitepaper covering the design approaches necessary for agentic identity usage
+  
+
