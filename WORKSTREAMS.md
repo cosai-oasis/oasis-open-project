@@ -48,11 +48,11 @@ Research and develop secure design patterns for AI-based agentic systems includi
 
 #### Proposed Deliverables, Milestones & In-scope Efforts
 * Develop a domain-specific scope covering key areas of investment, research, and need for agentic system security. Efforts will minimally include the following areas:
-  * threat model updates
+  * threat model updates, to include the significant volume, velocity, and variety increases associated with agentic systems
   * conceptual, high-level secure design patterns for agentic systems
-  * research and development of secure identity patterns for agentic systems
+  * research and development of secure identity patterns and privileged access for agentic systems.
 * Develop an agentic-specific security threat model update in collaboration with other CoSAI workstreams
-* Develop a conceptual secure design pattern for implementing / controling agentic systems
+* Develop a conceptual secure design pattern for implementing, protecting, and monitoring agentic systems
 * Develop an secure agentic identity whitepaper covering the design approaches necessary for agentic identity usage
   
 
