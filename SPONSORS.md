@@ -40,6 +40,7 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [Operant AI](https://www.operant.ai/) &bigstar;
 * [Palo Alto Networks](https://www.paloaltonetworks.com/) &bigtriangledown;
 * [Protect AI](https://protectai.com/) &bigstar; &bigtriangledown;
+* [Red Hat](https://www.redhat.com/en) 
 * [Styrk AI](https://styrk.ai/) &bigstar;
 * [Thomson Reuters](http://thomsonreuters.com/) &bigstar;
 * [Trend Micro](https://www.trendmicro.com/) &bigstar; &bigtriangledown;
