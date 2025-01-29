@@ -34,8 +34,8 @@ Develop a defender’s framework to identify needed investments to address the s
 * Definition of training corpus and materials required to support the development of AI agent(s) to support defenders , DCR: Access to compute for learning.
 * Detection patterns for abusive inputs
 
-### AI Risk Governance 
-Develop a risk and controls taxonomy, checklist, and scorecard to guide practitioners in readiness assessments, management, monitoring, and reporting of their AI products, services, and components. 
+### AI Security Risk Governance 
+Develop a security-focused risk and controls taxonomy, checklist, and scorecard to guide practitioners in readiness assessments, management, monitoring, and reporting of their AI products, services, and components. 
 
 #### Proposed Deliverables, Milestones & In-scope Efforts
 * Executive risk committee stakeholder recommendations (particularly around C-suite AI ownership)
