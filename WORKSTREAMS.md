@@ -1,6 +1,6 @@
 # CoSAI Workstreams
 
-_This document was approved by the PGB on 4 August 2024_
+_This document was approved by the PGB on 4 August 2024. It was updated on 7 February 2025 with the description of WS4, Secure Design Patterns for Agentic Systems, which was approved by the PGB on 30 January 2025._
 
 ## Purpose
 This document lists milestones and deliverables for the initial three CoSAI workstreams. These workstreams are listed in the [CoSAI Charter](./CHARTER.md) and are exemplary of the type of work that project members would collaborate on with our partners across the industry and academia.
@@ -42,4 +42,18 @@ Develop a risk and controls taxonomy, checklist, and scorecard to guide practiti
 * Suggest a tiered approach based on high, medium, low risks and corresponding controls. Map to evolving regulatory expectations.
 * Tradeoffs of data control invariants and PETs [(link)](https://en.wikipedia.org/wiki/Privacy-enhancing_technologies) including Differential Privacy, TEEs / confidential computing, etc and the related impacts to model performance or other security and technical robustness properties
 * Launch rubric or scorecard for evaluating organizational readiness for secure AI integration and use, based on the capability of the AI system
+
+### Secure Design Patterns for Agentic Systems
+Research and develop secure design patterns for AI-based agentic systems including updates to AI usage threat models, conceptual high-level secure design pattern(s), impacts to secure infrastructure design, and other agent integration and use based needs
+
+#### Proposed Deliverables, Milestones & In-scope Efforts
+* Develop a domain-specific scope covering key areas of research and development for agentic system security. Efforts will minimally include the following areas:  
+  * CoSAI definitions for agentic frameworks and secure AI infrastructure   
+  * threat model updates including impact of increased complexity associated with agentic systems  
+  * conceptual, high-level secure design patterns for agentic systems  
+  * research and development of secure identity patterns and privileged access for agentic systems  
+* Develop an agentic-specific security threat model update in collaboration with other CoSAI workstreams  
+* Develop a conceptual secure design pattern for implementing, protecting, and monitoring agentic systems  
+  * The first phase deliverable could focus on developing a security-first architectural framework for implementing and monitoring AI agent systems, beginning with a single LLM implementation as the foundational use case.   
+* Develop a secure agentic identity whitepaper covering the potential secure design approaches and control invariants required for agentic identity and privilege management. 
 
