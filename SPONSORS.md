@@ -21,7 +21,7 @@ Starred organizations have taken the additional step of signing the enterprise c
 
 ## Sponsors
 * [AIM Security](https://www.aim.security/) &bigstar;
-* [Adversa AI](https://adversa.ai/)
+* [Adversa AI](https://adversa.ai/) &bigstar;
 * [Blinder AI](https://blinderai.com/) &bigstar;
 * [CipherData](https://www.cipherdata.ai/) &bigstar;
 * [Cranium](https://www.cranium.ai/) &bigstar;
@@ -41,7 +41,7 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [Operant AI](https://www.operant.ai/) &bigstar;
 * [Palo Alto Networks](https://www.paloaltonetworks.com/) &bigtriangledown;
 * [Protect AI](https://protectai.com/) &bigstar; &bigtriangledown;
-* [Red Hat](https://www.redhat.com/en) 
+* [Red Hat](https://www.redhat.com/en) &bigstar;
 * [Styrk AI](https://styrk.ai/) &bigstar;
 * [Thomson Reuters](http://thomsonreuters.com/) &bigstar;
 * [Trend Micro](https://www.trendmicro.com/) &bigstar; &bigtriangledown;
