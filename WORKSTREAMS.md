@@ -34,8 +34,8 @@ Develop a defender’s framework to identify needed investments to address the s
 * Definition of training corpus and materials required to support the development of AI agent(s) to support defenders , DCR: Access to compute for learning.
 * Detection patterns for abusive inputs
 
-### AI Risk Governance 
-Develop a risk and controls taxonomy, checklist, and scorecard to guide practitioners in readiness assessments, management, monitoring, and reporting of their AI products, services, and components. 
+### AI Security Risk Governance 
+Develop a security-focused risk and controls taxonomy, checklist, and scorecard to guide practitioners in readiness assessments, management, monitoring, and reporting of their AI products, services, and components. 
 
 #### Proposed Deliverables, Milestones & In-scope Efforts
 * Executive risk committee stakeholder recommendations (particularly around C-suite AI ownership)
@@ -43,7 +43,7 @@ Develop a risk and controls taxonomy, checklist, and scorecard to guide practiti
 * Tradeoffs of data control invariants and PETs [(link)](https://en.wikipedia.org/wiki/Privacy-enhancing_technologies) including Differential Privacy, TEEs / confidential computing, etc and the related impacts to model performance or other security and technical robustness properties
 * Launch rubric or scorecard for evaluating organizational readiness for secure AI integration and use, based on the capability of the AI system
 
-### Secure Design of Agentic Systems
+### Secure Design Patterns for Agentic Systems
 Research and develop secure design patterns for AI-based agentic systems including updates to AI usage threat models, conceptual high-level secure design pattern(s), impacts to secure infrastructure design, and other agent integration and use based needs
 
 #### Proposed Deliverables, Milestones & In-scope Efforts
@@ -53,6 +53,7 @@ Research and develop secure design patterns for AI-based agentic systems includi
   * research and development of secure identity patterns and privileged access for agentic systems.
 * Develop an agentic-specific security threat model update in collaboration with other CoSAI workstreams
 * Develop a conceptual secure design pattern for implementing, protecting, and monitoring agentic systems
+  * Initial deliverable will be a secure design infrastructure and system design pattern for a single LLM as the simplest case of an agentic solution
 * Develop an secure agentic identity whitepaper covering the design approaches necessary for agentic identity usage
   
 
