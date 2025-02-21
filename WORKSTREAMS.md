@@ -34,8 +34,8 @@ Develop a defender’s framework to identify needed investments to address the s
 * Definition of training corpus and materials required to support the development of AI agent(s) to support defenders , DCR: Access to compute for learning.
 * Detection patterns for abusive inputs
 
-### AI Risk Governance 
-Develop a risk and controls taxonomy, checklist, and scorecard to guide practitioners in readiness assessments, management, monitoring, and reporting of their AI products, services, and components. 
+### AI Security Risk Governance 
+Develop a security-focused risk and controls taxonomy, checklist, and scorecard to guide practitioners in readiness assessments, management, monitoring, and reporting of their AI products, services, and components. 
 
 #### Proposed Deliverables, Milestones & In-scope Efforts
 * Executive risk committee stakeholder recommendations (particularly around C-suite AI ownership)
@@ -49,11 +49,11 @@ Research and develop secure design patterns for AI-based agentic systems includi
 #### Proposed Deliverables, Milestones & In-scope Efforts
 * Develop a domain-specific scope covering key areas of research and development for agentic system security. Efforts will minimally include the following areas:  
   * CoSAI definitions for agentic frameworks and secure AI infrastructure   
-  * threat model updates including impact of increased complexity associated with agentic systems  
+  * threat model updates including impact of increased complexity, volume and velocity associated with agentic systems  
   * conceptual, high-level secure design patterns for agentic systems  
   * research and development of secure identity patterns and privileged access for agentic systems  
 * Develop an agentic-specific security threat model update in collaboration with other CoSAI workstreams  
 * Develop a conceptual secure design pattern for implementing, protecting, and monitoring agentic systems  
-  * The first phase deliverable could focus on developing a security-first architectural framework for implementing and monitoring AI agent systems, beginning with a single LLM implementation as the foundational use case.   
-* Develop a secure agentic identity whitepaper covering the potential secure design approaches and control invariants required for agentic identity and privilege management. 
+  * The first phase deliverable may include the development of a security-first architectural framework for implementing and monitoring AI agent systems, beginning with a single LLM implementation as the foundational use case 
+* Develop a secure agentic identity whitepaper covering the potential secure design approaches and control invariants required for agentic identity and privilege management 
 
