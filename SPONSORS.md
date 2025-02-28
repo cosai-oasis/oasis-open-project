@@ -34,6 +34,7 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [Invariant Labs](https://invariantlabs.ai/) &bigstar;
 * [Lasso Security](https://www.lasso.security/) &bigstar;
 * [Legit Security](https://www.legitsecurity.com/) &bigstar;
+* [Lenovo](https://www.lenovo.com/) 
 * [Logitech](https://www.logitech.com/) &bigstar;
 * [Magic Mirror Security](https://www.magicmirrorsecurity.com/) &bigstar;
 * [Mozilla](https://www.mozilla.org/en-US/?v=2) &bigstar;
@@ -46,6 +47,7 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [Thomson Reuters](http://thomsonreuters.com/) &bigstar;
 * [Trend Micro](https://www.trendmicro.com/) &bigstar; &bigtriangledown;
 * [TrojAI](https://www.troj.ai/) &bigstar;
+* [Ulyssean](https://ulyssean.com/)
 * [VE3](https://www.ve3.global/) &bigstar;
 * [Zscaler](https://www.zscaler.com/) &bigstar; &bigtriangledown;
   
