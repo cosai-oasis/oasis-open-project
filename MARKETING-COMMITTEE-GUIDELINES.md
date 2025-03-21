@@ -42,23 +42,29 @@ The MC coordinates marketing and communications activities for CoSAI including:
 * Social media outreach
 * Website
 * Blogs, videos, podcasts, etc.
+* Panels
 
 There are two categories of CoSAI promotional activities: _Official CoSAI activities_ and _Sponsor-hosted activities_. 
 
 ### 2.1 Official CoSAI activities
 These are promotional activities managed by the MC in cooperation with OASIS staff under direction of the PGB:
 
-* **Planning and execution:** OASIS in collaboration with the MC is responsible for planning, organizing, and executing these events. This includes logistics, content, agenda, speakers, promotion, and overall coordination. 
+* **In-scope activities:** 
+  * CoSAI sponsored events
+  * CoSAI-branded written materials including blog posts, press releases, white papers, and slide decks
+  * Conversational engagement opportunities where **CoSAI** has been invited to speak, including: interviews, panels, keynotes, fireside chats, etc
+* **Planning and execution:** OASIS in collaboration with the MC is responsible for planning, organizing, and executing these events. This includes logistics, content, agenda, speakers, promotion, and overall coordination.
+* **Review and Approvals:** All supporting materials must be submitted for approval at least one business week prior to the event. All materials must be reviewed by an OASIS staff member and one PGB member, to be identified by the PGB co-chairs. All approved materials must be shared with the full PGB at least two business days prior to the event. Materials include any produced artifacts (blog posts, press releases, white papers, slide decks, etc) as well as supporting materials for any conversational engagements (e.g. proposed/potential questions, panel members, etc)
 * **Promotion:** The MC, supported by OASIS staff, develops content. Announcements and official collateral are issued/produced by OASIS on behalf of CoSAI. Sponsors contribute via the MC and individually may amplify and support promotional activities in ways defined by the MC.
-* **Branding:** CoSAI is prominently featured as the host of the event. All sponsors are identified, with Premiere sponsors listed first, followed by all General sponsors, each category in alphabetical order. 
-* **Speakers:** When needed, speakers or spokespersons will be selected by the PGB chairs and OASIS using the following criteria: a) expertise and neutrality of elected PGB, TSC, and workstream chairs; b)  desire to showcase the breadth and diversity of CoSAI support; c) equitable distribution of opportunities amongst Sponsors; d) individual’s domain expertise, availability, and other factors.
+* **Branding:** CoSAI is prominently featured as the host or the *invited party* of the event. All sponsors are identified, with Premiere sponsors listed first, followed by all General sponsors, each category in alphabetical order. 
+* **Speakers:** When needed, speakers or spokespersons will be selected by the PGB chairs and OASIS using the following criteria: a) expertise and neutrality of elected PGB, TSC, and workstream chairs; b)  desire to showcase the breadth and diversity of CoSAI support; c) equitable distribution of opportunities amongst Sponsors; d) individual’s domain expertise, availability, and other factors. All first time speakers, spokespersons, panel members, or presenters must meet with a PGB co-chair or delegate PGB member prior to their first official representation of CoSAI.
 * **Funding:** When funding is necessary, it may be provided by OASIS, Premier Sponsor dues allocations, donations, barter arrangements, registration fees, or other resources appropriate to the activity. Coordination for funding will be managed by OASIS. 
 
 ### 2.2 Sponsor-hosted activities
 These are conducted by individual Sponsors to promote their involvement in CoSAI. Sponsors are responsible for notifying OASIS and the MC to ensure accuracy and amplification of their activities. Examples of Sponsor-hosted activities include corporate blogs, corporate press releases that mention the company’s support for CoSAI, receptions, presentations in the company’s booth at conferences, etc.
 
 * **Planning and execution:** The host Sponsor must notify OASIS and the CoSAI MC of their plans before announcing publicly. The Sponsor will be responsible for planning, organizing, and executing their activity, handling logistics, marketing, and coordination. 
-* **Promotion:** The host Sponsor is responsible for developing its content and sharing it in advance with OASIS staff, who will review it for accuracy. The host Sponsor should notify the MC using the MC’s email list and tracking document. Other Sponsors may be invited to participate or amplify, but this is not required. 
+* **Promotion:** The host Sponsor is responsible for developing its content and sharing it at least one business week in advance with OASIS staff and one PGB member identified by the PGB co-chairs, who will review it for accuracy. Reviewed materials must be shared with the PGB prior to the event. The host Sponsor should notify the MC using the MC’s email list and tracking document. Other Sponsors may be invited to participate or amplify, but this is not required. 
 * **Branding:** The activity may reflect the unique identity and focus of the Sponsor, allowing for more customized content and experiences that align with the Sponsor’s specific interests and goals. 
 * **Speakers:** Where appropriate, the Sponsor may request speakers or other volunteers to support their hosted activity. The host Sponsor will be responsible for communicating these needs directly with the MC or to specific CoSAI Sponsors directly. Speakers or spokespersons may be selected at the discretion of the host Sponsor. 
 * **Funding:** The host sponsor will be responsible for all expenses related to their activities. 
