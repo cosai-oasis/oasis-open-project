@@ -1,6 +1,6 @@
 # CoSAI Marketing Committee Guidelines
 
-_This document was first approved by the CoSAI PGB on 20 August 2024. Updates were approved on 20 February 2025._
+_This document was first approved by the CoSAI PGB on 20 August 2024. Updates were approved on 20 March 2025._
 
 The CoSAI Marketing Committee (MC) is responsible for promoting the mission of the Coalition by conducting official CoSAI-hosted marketing activities and by amplifying sponsor-hosted promotional activities related to CoSAI. The MC operates under the direction of the CoSAI Project Governing Board (PGB) with support from OASIS staff.
 
