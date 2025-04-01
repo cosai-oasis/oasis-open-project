@@ -47,7 +47,7 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [Thomson Reuters](http://thomsonreuters.com/) &bigstar;
 * [Trend Micro](https://www.trendmicro.com/) &bigstar; &bigtriangledown;
 * [TrojAI](https://www.troj.ai/) &bigstar;
-* [Ulyssean](https://ulyssean.com/)
+* [Ulyssean](https://ulyssean.com/) &bigstar;
 * [VE3](https://www.ve3.global/) &bigstar;
 * [Zscaler](https://www.zscaler.com/) &bigstar; &bigtriangledown;
   
