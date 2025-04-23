@@ -20,6 +20,7 @@ The following members constitute the TSC (in alphabetical order by first name):
 * Michael	Scovetta (Microsoft)
 * Omar Santos (Cisco)
 * Peng Ning (Google)
+* Rudy Lai (Snyk)
 * Sarah Novotny (Gen Labs)
 * Sean Morgan (Protect AI)
 
