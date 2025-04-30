@@ -10,6 +10,8 @@ The Coalition for Secure AI (CoSAI) unites diverse stakeholders to tackle critic
 ## Code of Conduct and General Rules of Collaboration
 CoSAI, an OASIS Open Project, is committed to building an open, inclusive, productive and self-governing open source community. This community is governed by this document and in accordance with the [OASIS Open Project Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process/). The purpose of this document is to define how the CoSAI community should work together to achieve their goals.
 
+The PGB follows and is responsible for upholding the [OASIS Open Project Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process/), and any Standing Rules it adopts.
+
 ​The CoSAI Open Project follows the [OASIS Participants Code of Conduct](https://www.oasis-open.org/policies-guidelines/open-projects-process/). The Project will operate in a collaborative and transparent manner. 
 
 The CoSAI Open Project maintains a no-solicitation policy covering all meetings, webinars, and other events. Additionally, it is expected that participation in this Open Project will not result in future solicitations unless specifically invited. 
