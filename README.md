@@ -18,13 +18,13 @@ In addition to this GitHub organization, this project also makes use of other as
 
 - You can find the [general annoucement mailing list here](https://lists.oasis-open-projects.org/g/cosai-op). To subscribe, send an empty email message to [cosai-op+subscribe@lists.oasis-open-projects.org](mailto:cosai-op+subscribe@lists.oasis-open-projects.org). Anyone interested is welcome to subscribe. The list maintains an [archive](https://lists.oasis-open-projects.org/g/cosai-op/messages).
 
-- The [Project Governing Board (PGB) mailing list](https://lists.oasis-open-projects.org/g/cosai-pgb) is used for discussion of PGB members. To subscribe, send an empty email message to [this address](mailto:cosai-pgb+subscribe@lists.oasis-open-projects.org). Anyone interested is welcome to subscribe read-only. The list maintains an [archive](https://lists.oasis-open-projects.org/g/cosai-pgb/messages).
+- The [Project Governing Board (PGB) mailing list](https://lists.oasis-open-projects.org/g/cosai-pgb) is used for discussion of PGB members. The list maintains a public [archive](https://lists.oasis-open-projects.org/g/cosai-pgb/messages).
 
-- Coming soon – Technical Steering Committee mailing list. 
+- You can read the public archive of the Technical Steering Committee(TSC) mailing list [here](https://lists.oasis-open-projects.org/g/cosai-tsc/topics).
 
-# Contributing
+# Particiption in the CoSAI Workstreams
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details how to join the project, contribute changes to our repositories and communicate with the rest of the project contributors. Please become familiar with and follow the [code of conduct](CODE-OF-CONDUCT.md).
+If you're interested in participating in any of the CoSAI workstreams, please check out the [onboarding document](https://github.com/cosai-oasis/oasis-open-project/blob/main/ONBOARDING.md). Also, see [CONTRIBUTING.md](CONTRIBUTING.md) for details how to contribute changes to our repositories and communicate with the rest of the project contributors. Please become familiar with and follow the [code of conduct](CODE-OF-CONDUCT.md).
 
 # Governance and Licenses
 
@@ -34,7 +34,6 @@ CoSAI operates under the terms of the [Open Project Rules](https://www.oasis-ope
   
 The applicable license will be determined for each repository, as applicable, at the time of its
 creation.
-
 
 # CLA & Non-assert signatures required
 
