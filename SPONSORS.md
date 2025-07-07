@@ -27,6 +27,7 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [Cranium](https://www.cranium.ai/) &bigstar;
 * [Cyware](https://cyware.com/) &bigstar;
 * [Dell](https://www.dell.com/) &bigstar;
+* [Enkrypt AI](https://www.enkryptai.com/) 
 * [EY](https://www.ey.com/en_us) &bigstar; &bigtriangledown; 
 * [Fr0ntierX](https://www.fr0ntierx.com/) &bigstar;
 * [Harvey](https://www.harvey.ai/) &bigstar;
@@ -45,7 +46,7 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [Red Hat](https://www.redhat.com/en) &bigstar;
 * [Snyk](https://www.snyk.io/) &bigtriangledown;
 * [Styrk AI](https://styrk.ai/) &bigstar;
-* [SOAISEC (Sovereign AISecurity) Labs](https://sovereignaisecurity.com/) &bigstar;
+* [SOAISEC (Sovereign AISecurity) Labs](https://www.sovereignaisecurity.com/) &bigstar;
 * [Thomson Reuters](http://thomsonreuters.com/) &bigstar;
 * [Trend Micro](https://www.trendmicro.com/) &bigstar; &bigtriangledown;
 * [TrojAI](https://www.troj.ai/) &bigstar;
