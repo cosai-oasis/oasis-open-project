@@ -45,6 +45,7 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [Red Hat](https://www.redhat.com/en) &bigstar;
 * [Snyk](https://www.snyk.io/) &bigtriangledown;
 * [Styrk AI](https://styrk.ai/) &bigstar;
+* [SOAISEC (Sovereign AISecurity) Labs](https://sovereignaisecurity.com/) &bigstar;
 * [Thomson Reuters](http://thomsonreuters.com/) &bigstar;
 * [Trend Micro](https://www.trendmicro.com/) &bigstar; &bigtriangledown;
 * [TrojAI](https://www.troj.ai/) &bigstar;
