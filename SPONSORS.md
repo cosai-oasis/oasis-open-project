@@ -30,9 +30,11 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [Enkrypt AI](https://www.enkryptai.com/) 
 * [EY](https://www.ey.com/en_us) &bigstar; &bigtriangledown; 
 * [Fr0ntierX](https://www.fr0ntierx.com/) &bigstar;
+* [Fraunhofer Institute for Applied and Integrated Security (AISEC)](https://www.aisec.fraunhofer.de/) &bigstar;
 * [Harvey](https://www.harvey.ai/) &bigstar;
 * [HiddenLayer](https://hiddenlayer.com/) &bigstar;
 * [Invariant Labs](https://invariantlabs.ai/) &bigstar;
+* [Javelin](https://www.getjavelin.com/)
 * [Lasso Security](https://www.lasso.security/) &bigstar;
 * [Legit Security](https://www.legitsecurity.com/) &bigstar;
 * [Lenovo](https://www.lenovo.com/) &bigstar;
