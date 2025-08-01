@@ -30,6 +30,7 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [EY](https://www.ey.com/en_us) &bigstar; &bigtriangledown; 
 * [Fr0ntierX](https://www.fr0ntierx.com/) &bigstar;
 * [Fraunhofer Institute for Applied and Integrated Security (AISEC)](https://www.aisec.fraunhofer.de/) &bigstar;
+* [HackerOne](https://www.hackerone.com/) 
 * [Harvey](https://www.harvey.ai/) &bigstar;
 * [HiddenLayer](https://hiddenlayer.com/) &bigstar;
 * [Javelin](https://www.getjavelin.com/)
