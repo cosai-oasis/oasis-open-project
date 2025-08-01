@@ -12,7 +12,7 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [GenLab](https://www.genlab.studio/) &bigstar;
 * [Google](https://about.google/) &bigstar; &bigtriangledown;
 * [IBM](https://www.ibm.com) &bigstar; &bigtriangledown;
-* [Intel](https://www.intel.com) &bigstar; &bigtriangledown;
+* [Intel](https://www.intel.com) &bigstar; 
 * [Microsoft](https://www.microsoft.com/) &bigstar; &bigtriangledown;
 * [NVIDIA](https://www.nvidia.com/en-us/) &bigstar; &bigtriangledown;
 * [OpenAI](https://openai.com/) &bigstar;
