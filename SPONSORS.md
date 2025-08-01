@@ -6,7 +6,6 @@ Starred organizations have taken the additional step of signing the enterprise c
 ## Founding Sponsors
 * [Amazon](https://www.aboutamazon.com/) &bigstar;
 * [Anthropic](https://www.anthropic.com/) &bigstar;
-* [Chainguard](https://www.chainguard.dev/) &bigstar;
 * [Cisco](https://www.cisco.com/)&bigstar;
 * [Cohere](https://cohere.com/) &bigstar;
 * [GenLab](https://www.genlab.studio/) &bigstar;
@@ -33,7 +32,6 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [Fraunhofer Institute for Applied and Integrated Security (AISEC)](https://www.aisec.fraunhofer.de/) &bigstar;
 * [Harvey](https://www.harvey.ai/) &bigstar;
 * [HiddenLayer](https://hiddenlayer.com/) &bigstar;
-* [Invariant Labs](https://invariantlabs.ai/) &bigstar;
 * [Javelin](https://www.getjavelin.com/)
 * [Lasso Security](https://www.lasso.security/) &bigstar;
 * [Legit Security](https://www.legitsecurity.com/) &bigstar;
@@ -44,7 +42,6 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [Opal Security](https://opal.dev/) &bigstar;
 * [Operant AI](https://www.operant.ai/) &bigstar;
 * [Palo Alto Networks](https://www.paloaltonetworks.com/) &bigtriangledown;
-* [Protect AI](https://protectai.com/) &bigstar; &bigtriangledown;
 * [Red Hat](https://www.redhat.com/en) &bigstar;
 * [Snyk](https://www.snyk.io/) &bigtriangledown;
 * [Styrk AI](https://styrk.ai/) &bigstar;
