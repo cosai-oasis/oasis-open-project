@@ -37,7 +37,6 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [Lasso Security](https://www.lasso.security/) &bigstar;
 * [Legit Security](https://www.legitsecurity.com/) &bigstar;
 * [Lenovo](https://www.lenovo.com/) &bigstar;
-* [Logitech](https://www.logitech.com/) &bigstar;
 * [Magic Mirror Security](https://www.magicmirrorsecurity.com/) &bigstar;
 * [Mozilla](https://www.mozilla.org/en-US/?v=2) &bigstar;
 * [Opal Security](https://opal.dev/) &bigstar;
