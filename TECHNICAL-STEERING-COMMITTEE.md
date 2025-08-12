@@ -8,7 +8,6 @@ The following members constitute the TSC (in alphabetical order by first name):
 * Andre Elizondo (Wiz)
 * Dan Mellen (EY)
 * Daniel Rohrer (NVIDIA)
-* Dustin Kirkland (Chainguard)
 * Eoin Wickens (Hidden Layer)
 * Hsien-Hsin "Sean"	Lee (Intel)
 * Ian	Brelinsky (OpenAI)
@@ -16,11 +15,10 @@ The following members constitute the TSC (in alphabetical order by first name):
 * Josiah Hagen (Trend Micro)
 * JR Rao (IBM) – Co-Chair
 * Matt Maloney (Cohere)
-* Matt Saner (Amazon)
+* Jason Garman (Amazon)
 * Michael	Scovetta (Microsoft)
 * Omar Santos (Cisco)
 * Peng Ning (Google)
 * Rudy Lai (Snyk)
-* Sarah Novotny (Gen Labs)
-* Sean Morgan (Protect AI)
+* Tim Burress (Gen Labs)
 
