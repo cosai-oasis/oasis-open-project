@@ -38,7 +38,6 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [Legit Security](https://www.legitsecurity.com/) &bigstar;
 * [Lenovo](https://www.lenovo.com/) &bigstar;
 * [Magic Mirror Security](https://www.magicmirrorsecurity.com/) &bigstar;
-* [Mozilla](https://www.mozilla.org/en-US/?v=2) &bigstar;
 * [Opal Security](https://opal.dev/) &bigstar;
 * [Operant AI](https://www.operant.ai/) &bigstar;
 * [Palo Alto Networks](https://www.paloaltonetworks.com/) &bigtriangledown;
