@@ -24,13 +24,12 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [Blinder AI](https://blinderai.com/) &bigstar;
 * [CipherData](https://www.cipherdata.ai/) &bigstar;
 * [Cranium](https://www.cranium.ai/) &bigstar;
-* [Cyware](https://cyware.com/) &bigstar;
 * [Dell](https://www.dell.com/) &bigstar;
 * [Enkrypt AI](https://www.enkryptai.com/) 
 * [EY](https://www.ey.com/en_us) &bigstar; &bigtriangledown; 
 * [Fr0ntierX](https://www.fr0ntierx.com/) &bigstar;
 * [Fraunhofer Institute for Applied and Integrated Security (AISEC)](https://www.aisec.fraunhofer.de/) &bigstar;
-* [HackerOne](https://www.hackerone.com/) 
+* [HackerOne](https://www.hackerone.com/) &bigstar;
 * [Harvey](https://www.harvey.ai/) &bigstar;
 * [HiddenLayer](https://hiddenlayer.com/) &bigstar;
 * [Javelin](https://www.getjavelin.com/)
@@ -45,6 +44,7 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [Snyk](https://www.snyk.io/) &bigtriangledown;
 * [Styrk AI](https://styrk.ai/) &bigstar;
 * [SOAISEC (Sovereign AISecurity) Labs](https://www.sovereignaisecurity.com/) &bigstar;
+* [Technical University of Munich](https://www.tum.de/en/) &bigstar;
 * [Thomson Reuters](http://thomsonreuters.com/) &bigstar;
 * [Trend Micro](https://www.trendmicro.com/) &bigstar; &bigtriangledown;
 * [TrojAI](https://www.troj.ai/) &bigstar;
