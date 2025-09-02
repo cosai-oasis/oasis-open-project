@@ -21,7 +21,6 @@ Starred organizations have taken the additional step of signing the enterprise c
 ## Sponsors
 * [AIM Security](https://www.aim.security/) &bigstar;
 * [Adversa AI](https://adversa.ai/) &bigstar;
-* [Blinder AI](https://blinderai.com/) &bigstar;
 * [CipherData](https://www.cipherdata.ai/) &bigstar;
 * [Cranium](https://www.cranium.ai/) &bigstar;
 * [Dell](https://www.dell.com/) &bigstar;
