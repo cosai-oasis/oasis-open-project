@@ -41,7 +41,6 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [Palo Alto Networks](https://www.paloaltonetworks.com/) &bigtriangledown;
 * [Red Hat](https://www.redhat.com/en) &bigstar;
 * [Snyk](https://www.snyk.io/) &bigtriangledown;
-* [Styrk AI](https://styrk.ai/) &bigstar;
 * [SOAISEC (Sovereign AISecurity) Labs](https://www.sovereignaisecurity.com/) &bigstar;
 * [Technical University of Munich](https://www.tum.de/en/) &bigstar;
 * [Thomson Reuters](http://thomsonreuters.com/) &bigstar;
