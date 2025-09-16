@@ -15,7 +15,6 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [Microsoft](https://www.microsoft.com/) &bigstar; &bigtriangledown;
 * [NVIDIA](https://www.nvidia.com/en-us/) &bigstar; &bigtriangledown;
 * [OpenAI](https://openai.com/) &bigstar;
-* [PayPal](https://www.paypal.com/) &bigstar; &bigtriangledown;
 * [WIZ](https://www.wiz.io/) &bigstar;
 
 ## Sponsors
