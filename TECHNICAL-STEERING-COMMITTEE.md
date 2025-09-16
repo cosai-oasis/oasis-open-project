@@ -11,7 +11,6 @@ The following members constitute the TSC (in alphabetical order by first name):
 * Eoin Wickens (Hidden Layer)
 * Hsien-Hsin "Sean"	Lee (Intel)
 * Ian	Brelinsky (OpenAI)
-* Joshua Chou (Paypal)
 * Josiah Hagen (Trend Micro)
 * JR Rao (IBM) – Co-Chair
 * Matt Maloney (Cohere)
@@ -21,4 +20,3 @@ The following members constitute the TSC (in alphabetical order by first name):
 * Peng Ning (Google)
 * Rudy Lai (Snyk)
 * Tim Burress (Gen Labs)
-
