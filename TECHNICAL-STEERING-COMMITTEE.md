@@ -19,4 +19,4 @@ The following members constitute the TSC (in alphabetical order by first name):
 * Omar Santos (Cisco)
 * Peng Ning (Google)
 * Rudy Lai (Snyk)
-* Tim Burress (Gen Labs)
+* Tim Burress (GenLab)
