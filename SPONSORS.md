@@ -47,6 +47,5 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [TrojAI](https://www.troj.ai/) &bigstar;
 * [Ulyssean](https://ulyssean.com/) &bigstar;
 * [VE3](https://www.ve3.global/) &bigstar;
-* [Zscaler](https://www.zscaler.com/) &bigstar; &bigtriangledown;
   
   
