@@ -19,10 +19,12 @@ Starred organizations have taken the additional step of signing the enterprise c
 
 ## Sponsors
 * [AIM Security](https://www.aim.security/) &bigstar;
+* [Airia](https://airia.com/) 
 * [Adversa AI](https://adversa.ai/) &bigstar;
 * [CipherData](https://www.cipherdata.ai/) &bigstar;
 * [Cranium](https://www.cranium.ai/) &bigstar;
 * [Dell](https://www.dell.com/) &bigstar;
+* [Duke University](https://pratt.duke.edu/) &bigstar; 
 * [Enkrypt AI](https://www.enkryptai.com/) 
 * [EY](https://www.ey.com/en_us) &bigstar; &bigtriangledown; 
 * [Fr0ntierX](https://www.fr0ntierx.com/) &bigstar;
@@ -30,7 +32,7 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [HackerOne](https://www.hackerone.com/) &bigstar;
 * [Harvey](https://www.harvey.ai/) &bigstar;
 * [HiddenLayer](https://hiddenlayer.com/) &bigstar;
-* [Javelin](https://www.getjavelin.com/)
+* [Javelin](https://www.getjavelin.com/) &bigstar;
 * [Lasso Security](https://www.lasso.security/) &bigstar;
 * [Legit Security](https://www.legitsecurity.com/) &bigstar;
 * [Lenovo](https://www.lenovo.com/) &bigstar;
