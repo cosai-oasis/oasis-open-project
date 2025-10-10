@@ -41,6 +41,7 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [Operant AI](https://www.operant.ai/) &bigstar;
 * [Palo Alto Networks](https://www.paloaltonetworks.com/) &bigtriangledown;
 * [Red Hat](https://www.redhat.com/en) &bigstar;
+* [SailPoint](https://www.sailpoint.com/) 
 * [Snyk](https://www.snyk.io/) &bigtriangledown;
 * [SOAISEC (Sovereign AISecurity) Labs](https://www.sovereignaisecurity.com/) &bigstar;
 * [Technical University of Munich](https://www.tum.de/en/) &bigstar;
