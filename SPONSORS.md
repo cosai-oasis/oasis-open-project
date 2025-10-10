@@ -19,7 +19,7 @@ Starred organizations have taken the additional step of signing the enterprise c
 
 ## Sponsors
 * [AIM Security](https://www.aim.security/) &bigstar;
-* [Airia](https://airia.com/) 
+* [Airia](https://airia.com/) &bigstar;
 * [Adversa AI](https://adversa.ai/) &bigstar;
 * [CipherData](https://www.cipherdata.ai/) &bigstar;
 * [Cranium](https://www.cranium.ai/) &bigstar;
