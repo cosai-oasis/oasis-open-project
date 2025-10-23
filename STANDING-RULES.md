@@ -2,8 +2,11 @@
 
 ## **Standing Rule 2025-01**
 
-Adopted by the CoSAI Project Governing Board, May 20, 2025
-Resolved: The Coalition for Secure AI (CoSAI) Project Governing Board adopts [Open Project Rule 5.7(a)](https://www.oasis-open.org/policies-guidelines/open-projects-process/#project-governing-board-adjust-voting-rights) as follows: Voting Members of the PGB who are absent from three consecutive meetings of the PGB (as recorded in the minutes) lose their voting rights, whether for e-ballot or in a PGB meeting, at the end of the third meeting missed and will not be counted towards quorum in a PGB meeting. However, they shall retain all other rights, privileges, and obligations afforded to PGB members. A Member who has lost voting rights by missing three meetings may regain voting rights by (a) declaring to the Chair their desire to regain voting rights and (b) attending two consecutive meetings of the PGB. Their rights will be restored at the end of the second meeting.
+Adopted by the CoSAI Project Governing Board, May 20, 2025; updated on October 22, 2025
+Resolved: The Coalition for Secure AI (CoSAI) Project Governing Board adopts [Open Project Rule 5.7(a)](https://www.oasis-open.org/policies-guidelines/open-projects-process/#project-governing-board-adjust-voting-rights) as follows: Voting Members of the PGB will lose their voting right at the end of the third consecutive meeting missed where neither the voting member nor their designated alternate is present (as recorded in the minutes). This pertais to e-ballots or votes during a PGB meeting and the member will not be counted towards quorum in a PGB meeting. However, they shall retain all other rights, privileges, and obligations afforded to PGB members. A Member who has lost voting rights by missing three meetings may regain voting rights by (a) declaring to the Chair their desire to regain voting rights and (b) attending two consecutive meetings of the PGB. Their rights will be restored at the end of the second meeting.
+
+If the PGB member is located in a timezone that makes it difficult to attend the meetings, they can notify the TSC chairs and OASIS staff, and their non-participation will not be counted. Meeting recordings will be shared so these members can comment on discussion items asynchronously.
+The PGB chairs should aim to schedule meetings at times that allow for the highest possible attendance from most members.
 
 ## **Standing Rule 2025-02**
 
