@@ -1,6 +1,6 @@
 # CoSAI Open Project Governance 
 
-_This document was approved by the CoSAI PGB, 22 July 2024. Updates were approved by the PGB on 29 July 2024_
+_This document was approved by the CoSAI PGB, 22 July 2024. Updates were approved by the PGB on 29 July 2024. Further updates were approved by the PGB on 22 October 2025._
 
 This document defines the Coalition for Secure AI (CoSAI) Open Project governance. This document changes infrequently by the process defined below.
 
@@ -57,9 +57,9 @@ Promoting work to stages in the OASIS standards track (Project Specification Dra
 ### Technical Steering Committee (TSC) 
 The TSC is responsible for the overall technical health and direction of the project and advises the PGB on such matters. Further, the TSC is responsible for releases, and overseeing work of Workstreams, WS Chairs, Contributors, and Maintainers.
 
-[Premier Sponsors and Founding Sponsors](https://github.com/cosai-oasis/oasis-open-project/blob/main/SPONSORS.md) will have the option for one TSC Representative. This person may be different from the PGB representative and should be a subject matter expert.
+[Premier Sponsors and Founding Sponsors](https://github.com/cosai-oasis/oasis-open-project/blob/main/SPONSORS.md) will have the option for one TSC Representative. This person may be different from the PGB representative and should be a subject matter expert. CoSAI Founding Sponsors are the group of general level sponsors that joined CoSAI at the founding of the project.
 
-The PGB also creates a set number of TSC seats for non-sponsoring participants which are held for academic institutions, non-profit organizations, and other non-commercial entities such as government organizations. These members should also participate in at least one Workstream.
+The PGB also creates a set number of TSC seats for non-sponsoring participants which are held for academic institutions, non-profit organizations, and other non-commercial entities such as government organizations. TSC non-sponsor representatives are expected to attend TSC meetings regularly and be active in at least one workstream. TSC non-sponsor organizations will be expected to sign the OASIS Open Project Membership Agreement without modification as well as agree to all intellectual property rules adopted by the project. The term of the seats is for one year from the signature of the Membership Agreement and can be revisited annually. This seat does not come with any other rights of OASIS membership or automatic benefits of other sponsors. This seat is not eligible to vote in TSC matters or have an official status on the Project Governing Board. Conditions may be amended by the PGB. 
 
 **The TSC will be populated by the following process:**
 * TSC members representing sponsoring members are selected by that sponsoring member as they know their talent the best. This person can be switched out with prior notice to the PGB and OASIS staff. 
@@ -74,12 +74,12 @@ The TSC has **two Co-Chairs** elected by the TSC with a [Full Majority Vote](htt
 
 The TSC has to select **one member to represent it on the PGB**. This representative’s organization shall not already be represented on the PGB to avoid any one organization having two votes on the PGB.
 
-The TSC will also need to appoint at least one **Maintainer** who will serve as principal editor of the Project’s technical work managed within its Project Repositories. If the TSC fails to appoint a maintainer, the PGB shall appoint one.
+The TSC will also need to appoint at least one **Maintainer** who will serve as principal editor of the Project’s technical work managed within its Project Repositories. If the TSC fails to appoint a maintainer, the PGB shall appoint one. The TSC chairs also have the option of filling this role.
 
 The TSC is also tasked with creating a **Maintainer policy** and a **Contributing policy**. The latter defines what type of contributions are accepted, how they are reviewed and what the general contribution process looks like.
 
 #### Responsibilities of TSC members
-All TSC members are expected to attend the committee meetings on a regular basis and contribute to the objectives and outcomes of those meetings. Every TSC member is required to be involved in at least one work stream.
+All TSC members are expected to attend the committee meetings on a regular basis and contribute to the objectives and outcomes of those meetings. Every TSC member should be involved in at least one work stream. Further governance for the TSC and the Workstreams can be found [here](https://github.com/cosai-oasis/oasis-open-project/blob/main/TSC-WS-GOVERNANCE.md).
 
 #### Recall Procedure
 Any community member may submit a request for recall of a TSC chair to the PGB at any time by submitting the request and sufficient justification to the PGB chair or co-chairs. Such requests shall be held in confidence by the PGB chair or co-chairs. In the event of receipt of such a request, the chair or co-chairs shall schedule the recall as an item for discussion at the next PGB meeting, which shall be held no later than 30 days after the receipt of the request. After subsequent discussion, the recall shall be decided upon by a [Full Majority Vote](https://www.oasis-open.org/policies-guidelines/oasis-defined-terms-2018-05-22#dFullMajority) of the PGB. In the event of a recall vote passing, the TSC chair shall at that time be considered immediately recalled and be relieved of all responsibilities conferred via the position. If needed, a new TSC Chair or Co-Chair shall be appointed by the PGB.
@@ -91,11 +91,34 @@ Workstream contributors can also propose amendments to the scope and deliverable
 
 Workstreams (WS) can occur concurrently or consecutively as decided by the PGB based on resources and timeline planning.
 
-Each WS is chaired by a member of the TSC, and all non-sponsor seats are expected to participate in at least one WS. 
-
 Contributors can be assigned to a WS by the PGB. The PGB can also delegate this task to the TSC.
 
-When a WS completes a work product that it wants approved, the WS team sends the work product to the TSC for a vote, and then the TSC can send it to the PGB for final approval consistent with the OASIS rules.
+When a WS completes a work product that it wants approved, the WS team sends the work product to the TSC for a vote, and then the TSC can send it to the PGB for final approval consistent with the OASIS rules. Further governance for the workstreams can be found [here](https://github.com/cosai-oasis/oasis-open-project/blob/main/TSC-WS-GOVERNANCE.md).
+
+## Deliverables and Approval Process
+There are two types of CoSAI deliverables: major deliverables and other deliverables.
+
+**Major deliverables** include but are not limited to: new white papers, strategic or opinion blog posts or announcements that represent CoSAI as a whole, new features and/or new content, code releases, work products etc. that represent CoSAI as a whole, and/or work products that take a position on behalf of the CoSAI OP. 
+
+### Approval process for major deliverables
+**Originating in the PGB**: A review period followed by a consensus vote of the eligible voters of the PGB. A specified majority vote may be requested.
+
+**Originating in a Committee**: After an internal agreement among the deliverable’s author(s) and committee chair/leads, a review period is needed followed by a call for consensus. A specified majority vote may be requested.
+
+In the case of work products originating **in workstreams**, it is expected that workstream leads will have secured agreement among the workstream contributors before raising the deliverable for approval by the TSC. When the WS leads agree on the approval of the work product, they should request a 5-day review by the TSC and the PGB at the same time, followed by a Full Majority Vote of the TSC. Once the TSC approval is confirmed, the TSC will request approval from the PGB. The PGB will then start a call for consensus (3-5 days). A specified majority vote may be requested.
+
+In both cases, the call for consent of the PGB will be documented on the project’s official tools for visibility and archival permanence. PGB members are welcome to raise objections in the matter specified in the call. In the event of substantive objections, OASIS administrators will consult with the project leads on the best resolution. 
+
+### Approval Process for other Deliverables
+In the interest of agile processes that allow CoSAI to move at the speed of relevance, lesser deliverables, such as release announcement blog posts, updated versions to existing and approved white papers, bug fix PRs etc., will adhere to an abbreviated approval process.
+
+Deliverables in this category will be considered approved once they receive consensus from the committee (or workstream) in which they originated and a call for consent by the TSC (in the case of workstreams) or PGB (in the case of other committees) has been deemed successful. 
+
+Any committee has the option of holding a specified majority vote and/or increased approvals for these deliverables if deemed necessary.
+
+If there is uncertainty on which category work products or deliverables fall into, the OASIS administrators will consult with project leads to make the determination that is in the best interest of the project.
+
+If CoSAI produces [specifications](https://www.oasis-open.org/policies-guidelines/open-projects-process/#project-specifications), then the OASIS process as written at the time must be followed.
 
 ### Optional Committees
 In addition to the TSC, the PGB may form other groups as they deem necessary, such as a Marketing Group, Advisory Council (experts who may be advocates for the project without being deeply involved), or an Executive Steering Committee in the event the PGB grows too large.
