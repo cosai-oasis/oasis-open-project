@@ -1,3 +1,5 @@
+_This document was approved by the CoSAI PGB, 21 August 2024. Further updates were approved by the PGB on 22 October 2025._
+
 # CoSAI TSC and Workstream Governance 
 
 ## Purpose of the Technical Steering Committee (TSC)
@@ -18,21 +20,21 @@ Premier Sponsors and Founding Sponsors will have the option for one TSC Represen
 The TSC will be populated by the following process:
 
 * TSC members and TSC alternates representing [Premier Sponsors and Founding Sponsors](https://github.com/cosai-oasis/oasis-open-project/blob/main/SPONSORS.md) are selected by that sponsoring member as they know their talent the best. This person can be switched out with prior notice to the PGB and OASIS staff. The TSC representative should designate no more than one alternate.
-* Appointment of the non-sponsor seats to the TSC is done by a consensus vote by the PGB. The maximum number of non-sponsor seats will be determined by the number of active CoSAI workstreams, with a maximum of one non-sponsor seat per workstream. Currently, this number is three with three active workstreams. There will be a minimum of two non-sponsor seats total. Total number of non-sponsor seats is reviewed upon the addition or closing of CoSAI workstreams. Each workstream must have at least one non-sponsor TSC member at any time.
+* Appointment of the non-sponsor seats to the TSC is done by a consensus vote by the PGB. The maximum number of non-sponsor seats will be determined by the number of active CoSAI workstreams, with a maximum of one non-sponsor seat per workstream. Currently, this number is three with three active workstreams. There will be a minimum of two non-sponsor seats total. Total number of non-sponsor seats is reviewed upon the addition or closing of CoSAI workstreams. It is encouraged that each workstream has at least one non-sponsors TSC member.
 
 The PGB can adjust the process for populating the TSC once the membership number normalizes and will review this rule on TSC membership eligibility, including non-sponsor seats, on an annual basis.
 
-No legal entity shall hold more than one seat on the TSC.
+No legal entity shall hold more than one voting seat on the TSC.
 
 ### TSC Chairs and PGB representative
-The TSC has two Co-Chairs elected by the TSC with a [Full Majority Vote](https://www.oasis-open.org/policies-guidelines/oasis-defined-terms-2018-05-22/#dFullMajority) and the TSC has to select one member to represent it on the PGB. The TSC shall select the representative to the PGB from the non-sponsoring seats, in order to avoid any one organization having two votes on the PGB. This representative is a voting expert representative of the TSC [per the OASIS Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process/#project-governing-board-and-sponsors-composition).    
+The TSC has at least two Co-Chairs elected by the TSC with a [Full Majority Vote](https://www.oasis-open.org/policies-guidelines/oasis-defined-terms-2018-05-22/#dFullMajority) and the TSC has to select one member to represent it on the PGB. The TSC shall select the representative to the PGB from the non-sponsoring seats, in order to avoid any one organization having two votes on the PGB. This representative is a voting expert representative of the TSC [per the OASIS Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process/#project-governing-board-and-sponsors-composition).    
 
 The Co-Chairs are elected or re-confirmed every two years by a [Full Majority Vote](https://www.oasis-open.org/policies-guidelines/oasis-defined-terms-2018-05-22/#dFullMajority) of the TSC. Existing Chairs serve until they resign or are replaced in an election. The PGB may also remove a TSC Chair at any time with a [Full Majority Vote](https://www.oasis-open.org/policies-guidelines/oasis-defined-terms-2018-05-22/#dFullMajority).
 
 ## Responsibilities and Scope of Work
 All TSC members are expected to attend the committee meetings on a regular basis and contribute to the objectives and outcomes of those meetings. 
 
-Every TSC member is required to be involved in at least one workstream.
+Every TSC member should be involved in at least one workstream.
 
 The TSC in coordination with the PGB, is responsible for setting a roadmap for each Workstream. The PGB is expected to provide a workstream scope and vision which enables the TSC to utilize their subject matter expertise to determine the path toward completion. The TSC then oversees the implementation of the roadmap by the individual workstream leads, ensuring its successful execution.
 
@@ -50,6 +52,8 @@ Workstream contributors can also propose amendments to the scope and deliverable
 * Responsible for keeping the WS on track with regard to the roadmap set by the TSC
 * Accountable for GitHub Repo management including edits/updates, issue and PR backlog management, and delegating responsibility to a separate volunteer, if applicable
 * Workstream Chairs report to the TSC on a regular basis about the progress of the WS.
+
+WS leads should aim to schedule meetings at times that allow for the highest possible attendance from most members.
 
 ## TSC and Workstream Tools
 Each Workstream will have one or more Github repositories. The repositories are managed by both WS leads and CoSAI Maintainers.
@@ -85,23 +89,23 @@ The TSC shall determine the number of maintainers required to merge a contributi
 The TSC will establish a maintainer policy which covers the number of maintainers per repository. The Workstream Leads should also serve as the maintainer for the relevant repositories.
 
 ## TSC Attendance policy
-**Loss of Voting Rights:** A TSC member will lose their voting right at the end of the second consecutive TSC meeting missed where neither the member nor their designated alternate is present, without prior notice to the TSC Chair. In such instances, the member will also not be counted towards quorum in a TSC meeting. However, they shall retain all other rights, privileges, and obligations afforded to TSC members. The corresponding PGB representative will also be notified.  
+**Loss of Voting Rights:** A TSC member will lose their voting right at the end of the second consecutive TSC meeting missed where neither the member nor their designated alternate is present, without prior notice to the TSC Chair. In such instances, the member will also not be counted towards quorum in a TSC meeting. However, they shall retain all other rights, privileges, and obligations afforded to TSC members. The corresponding PGB representative will also be notified. If the TSC member is located in a timezone that makes it difficult to attend the meetings, they can notify the TSC chairs and OASIS staff, and their non-participation will not be counted. Meeting recordings will be shared so these members can comment on discussion items asynchronously. The TSC chairs should aim to schedule meetings at times that allow for the highest possible attendance from most members
+  
 
 **Regaining Voting Rights:** A TSC member who has lost their voting rights by missing two meetings may regain voting rights by (a) declaring to the Chair their desire to regain voting rights and then (b) attending (or having their alternate attend) two consecutive meetings of the TSC. Their rights will be restored at the end of the second meeting. 
 
 ## Decision Making
 The TSC and Workstreams are encouraged to work asynchronously using provided tools such as the email list, GitHub repositories, and other tools as requested. Furthermore, these groups are suggested to use [lazy consensus](https://openoffice.apache.org/docs/governance/lazyConsensus.html) where possible, for the exception of where formal ballots are required by the [OASIS Open Project Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process).
 
-Major changes on Github or to a WS document using any other official project platform should be accompanied by a post on the WS mailing list as appropriate. Author(s) of the proposal, Pull Requests, or issues, will give a time period of no less than seven (7) working days for comment and remain cognizant of popular observed world holidays.
-
-Other maintainers may chime in and request additional time for review, but should remain cognizant of blocking progress and abstain from delaying progress unless absolutely needed. The expectation is that blocking progress is accompanied by a guarantee to review and respond to the relevant action(s) (proposals, PRs, issues, etc.) in short order.
+Major changes on Github or to a WS document using any other official project platform should be accompanied by a post on the WS mailing list, the relevant WS Slack channel and should also be announced in workstream meetings as appropriate. Author(s) of the change proposal, Pull request, or issues should give a time period of at least 7 working days for comments.
 
 [Lazy consensus](https://openoffice.apache.org/docs/governance/lazyConsensus.html) is practiced for all projects and documents, including the main project repository and draft documents using other tools than Github.
 
 Lazy consensus does _not_ apply to decisions regarding finalizing a WS deliverable or work product and moving a specification to the OASIS standards track.
 
 ### Completing a WS deliverable
-When a WS completes a deliverable or work product that it wants approved as an official release, the WS maintainers shall take a [Full Majority Vote](https://www.oasis-open.org/policies-guidelines/oasis-defined-terms-2018-05-22#dFullMajority). The vote and its result needs to be documented on the WS mailing list. When the vote is successful, the WS leads send the work product to the TSC for a Full majority vote. The TSC then shall request final approval by the PGB consistent with the [OASIS Open Project Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process/#progression-of-project-work).
+
+When a WS completes a deliverable or work product that it wants approved as an official release, it is expected that workstream leads will have secured agreement among the workstream contributors before raising the deliverable for approval by the TSC. When the WS leads agree on the approval of the work product, they should request a 5-day review by the TSC and the PGB at the same time, followed by a Full Majority Vote of the TSC. Once the TSC approval is confirmed, the TSC will request approval from the PGB. The PGB will then start a call for consensus (3-5 days). A specified majority vote may be requested.
 
 ## Removal of TSC members or Workstream members
 A TSC member or Workstream member is eligible to lose their seat for violating the Code of Conduct. Violations of the Code of Conduct may be reported to OASIS Staff at [code-of-conduct@oasis-open.org](mailto:code-of-conduct@oasis-open.org). If OASIS staff determines that a violation of the Code of Conduct has occurred, the TSC can decide if they want to remove the person in question via a [Full Majority Vote](http://docs.oasis-open.org/templates/TCHandbook/content/voting/fullmajority.htm).
