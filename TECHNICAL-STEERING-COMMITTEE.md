@@ -10,7 +10,6 @@ The following members constitute the TSC (in alphabetical order by first name):
 * Daniel Rohrer (NVIDIA)
 * Eoin Wickens (Hidden Layer)
 * Hsien-Hsin "Sean"	Lee (Intel)
-* Ian	Brelinsky (OpenAI)
 * Josiah Hagen (Trend Micro)
 * JR Rao (IBM) – Co-Chair
 * Matt Maloney (Cohere)
