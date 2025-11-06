@@ -15,6 +15,7 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [Microsoft](https://www.microsoft.com/) &bigstar; &bigtriangledown;
 * [NVIDIA](https://www.nvidia.com/en-us/) &bigstar; &bigtriangledown;
 * [OpenAI](https://openai.com/) &bigstar;
+* [PayPal](https://www.paypal.com/us/home) 
 * [WIZ](https://www.wiz.io/) &bigstar;
 
 ## Sponsors
@@ -30,6 +31,7 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [HackerOne](https://www.hackerone.com/) &bigstar;
 * [Harvey](https://www.harvey.ai/) &bigstar;
 * [HiddenLayer](https://hiddenlayer.com/) &bigstar;
+* [Huawei Technologies](https://www.huawei.com/en/) &bigstar; 
 * [Javelin](https://www.getjavelin.com/) &bigstar;
 * [Legit Security](https://www.legitsecurity.com/) &bigstar;
 * [Lenovo](https://www.lenovo.com/) &bigstar;
@@ -47,6 +49,6 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [TrojAI](https://www.troj.ai/) &bigstar;
 * [Ulyssean](https://ulyssean.com/) &bigstar;
 * [VE3](https://www.ve3.global/) &bigstar;
-* [Zscaler](https://www.zscaler.com/) &bigstar; &bigtriangledown;
+* [Zscaler](https://www.zscaler.com/) &bigtriangledown;
   
   
