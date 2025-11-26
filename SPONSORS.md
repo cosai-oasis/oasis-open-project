@@ -24,7 +24,8 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [CipherData](https://www.cipherdata.ai/) &bigstar;
 * [Cranium](https://www.cranium.ai/) &bigstar;
 * [Dell](https://www.dell.com/) &bigstar;
-* [Duke University](https://pratt.duke.edu/) &bigstar; 
+* [Duke University](https://pratt.duke.edu/) &bigstar;
+* [EQTY Lab](https://www.eqtylab.io/) 
 * [EY](https://www.ey.com/en_us) &bigstar; &bigtriangledown; 
 * [Fr0ntierX](https://www.fr0ntierx.com/) &bigstar;
 * [Fraunhofer Institute for Applied and Integrated Security (AISEC)](https://www.aisec.fraunhofer.de/) &bigstar;
