@@ -7,7 +7,7 @@ Before you get started, here are a few things you should know.
 ## CoSAI Focus and existing work
 
 ### CoSAI Principles for Secure-by-Design Agentic Systems
-CoSAI's Technical Steering Committee (TSC) published Principles for Secure-by-Design Agentic Systems in July 2025. These inform the work being done by CoSAI's workstreams. You can read an introduction to the principles[here](https://github.com/cosai-oasis/cosai-tsc/blob/main/intro-agentic-security-principles.md) and the principles document[here](https://github.com/cosai-oasis/cosai-tsc/blob/main/security-principles-for-agentic-systems.md).
+CoSAI's Technical Steering Committee (TSC) published Principles for Secure-by-Design Agentic Systems in July 2025. These inform the work being done by CoSAI's workstreams. You can read an introduction to the principles [here](https://github.com/cosai-oasis/cosai-tsc/blob/main/intro-agentic-security-principles.md) and the principles document [here](https://github.com/cosai-oasis/cosai-tsc/blob/main/security-principles-for-agentic-systems.md).
 
 ### Published CoSAI Papers and Guidance
 
