@@ -27,7 +27,6 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [Duke University](https://pratt.duke.edu/) &bigstar;
 * [EQTY Lab](https://www.eqtylab.io/) 
 * [EY](https://www.ey.com/en_us) &bigstar; &bigtriangledown; 
-* [Fr0ntierX](https://www.fr0ntierx.com/) &bigstar;
 * [Fraunhofer Institute for Applied and Integrated Security (AISEC)](https://www.aisec.fraunhofer.de/) &bigstar;
 * [HackerOne](https://www.hackerone.com/) &bigstar;
 * [Harvey](https://www.harvey.ai/) &bigstar;
@@ -37,7 +36,6 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [Legit Security](https://www.legitsecurity.com/) &bigstar;
 * [Lenovo](https://www.lenovo.com/) &bigstar;
 * [Magic Mirror Security](https://www.magicmirrorsecurity.com/) &bigstar;
-* [Opal Security](https://opal.dev/) &bigstar;
 * [Operant AI](https://www.operant.ai/) &bigstar;
 * [Palo Alto Networks](https://www.paloaltonetworks.com/) &bigtriangledown;
 * [Red Hat](https://www.redhat.com/en) &bigstar;
