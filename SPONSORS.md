@@ -21,8 +21,9 @@ Starred organizations have taken the additional step of signing the enterprise c
 ## Sponsors
 * [Airia](https://airia.com/) &bigstar;
 * [Adversa AI](https://adversa.ai/) &bigstar;
+* [Cranium](https://www.cranium.ai) &bigstar;
 * [CipherData](https://www.cipherdata.ai/) &bigstar;
-* [Cranium](https://www.cranium.ai/) &bigstar;
+* [CyberPeace Foundation](https://cyberpeace.org/)
 * [Dell](https://www.dell.com/) &bigstar;
 * [Duke University](https://pratt.duke.edu/) &bigstar;
 * [EQTY Lab](https://www.eqtylab.io/) 
@@ -31,7 +32,8 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [HackerOne](https://www.hackerone.com/) &bigstar;
 * [Harvey](https://www.harvey.ai/) &bigstar;
 * [HiddenLayer](https://hiddenlayer.com/) &bigstar;
-* [Huawei Technologies](https://www.huawei.com/en/) &bigstar; 
+* [Huawei Technologies](https://www.huawei.com/en/) &bigstar;
+* [Irregular (Pattern Labs Tech)](https://www.irregular.com/) 
 * [Javelin](https://www.getjavelin.com/) &bigstar;
 * [Legit Security](https://www.legitsecurity.com/) &bigstar;
 * [Lenovo](https://www.lenovo.com/) &bigstar;
@@ -39,7 +41,7 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [Operant AI](https://www.operant.ai/) &bigstar;
 * [Palo Alto Networks](https://www.paloaltonetworks.com/) &bigtriangledown;
 * [Red Hat](https://www.redhat.com/en) &bigstar;
-* [SailPoint](https://www.sailpoint.com/) 
+* [SailPoint](https://www.sailpoint.com/) &bigstar;
 * [Snyk](https://www.snyk.io/) &bigtriangledown;
 * [SOAISEC (Sovereign AISecurity) Labs](https://www.sovereignaisecurity.com/) &bigstar;
 * [Technical University of Munich](https://www.tum.de/en/) &bigstar;
