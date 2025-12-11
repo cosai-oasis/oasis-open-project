@@ -26,7 +26,7 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [CyberPeace Foundation](https://cyberpeace.org/)
 * [Dell](https://www.dell.com/) &bigstar;
 * [Duke University](https://pratt.duke.edu/) &bigstar;
-* [EQTY Lab](https://www.eqtylab.io/) 
+* [EQTY Lab](https://www.eqtylab.io/) &bigstar;
 * [EY](https://www.ey.com/en_us) &bigstar; &bigtriangledown; 
 * [Fraunhofer Institute for Applied and Integrated Security (AISEC)](https://www.aisec.fraunhofer.de/) &bigstar;
 * [HackerOne](https://www.hackerone.com/) &bigstar;
@@ -38,11 +38,12 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [Legit Security](https://www.legitsecurity.com/) &bigstar;
 * [Lenovo](https://www.lenovo.com/) &bigstar;
 * [Magic Mirror Security](https://www.magicmirrorsecurity.com/) &bigstar;
+* [Meta](https://www.meta.com/) &bigtriangledown;
 * [Operant AI](https://www.operant.ai/) &bigstar;
 * [Palo Alto Networks](https://www.paloaltonetworks.com/) &bigtriangledown;
 * [Red Hat](https://www.redhat.com/en) &bigstar;
 * [SailPoint](https://www.sailpoint.com/) &bigstar;
-* [Snyk](https://www.snyk.io/) &bigtriangledown;
+* [Snyk](https://www.snyk.io/) &bigstar; &bigtriangledown;
 * [SOAISEC (Sovereign AISecurity) Labs](https://www.sovereignaisecurity.com/) &bigstar;
 * [Technical University of Munich](https://www.tum.de/en/) &bigstar;
 * [Thomson Reuters](http://thomsonreuters.com/) &bigstar;
