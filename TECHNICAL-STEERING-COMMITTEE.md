@@ -6,10 +6,10 @@ The following members constitute the TSC (in alphabetical order by first name):
 
 * Akila Srinivasan (Anthropic) - Co-Chair
 * Andre Elizondo (Wiz)
-* Dan Mellen (EY)
 * Daniel Rohrer (NVIDIA)
+* David Pierce (Paypal)
+* Debadatta Mishra (EY)
 * Eoin Wickens (Hidden Layer)
-* Hsien-Hsin "Sean"	Lee (Intel)
 * Josiah Hagen (Trend Micro)
 * JR Rao (IBM) – Co-Chair
 * Matt Maloney (Cohere)
@@ -17,5 +17,6 @@ The following members constitute the TSC (in alphabetical order by first name):
 * Michael	Scovetta (Microsoft)
 * Omar Santos (Cisco)
 * Peng Ning (Google)
+* Raghuram Yeluri (Intel)
 * Rudy Lai (Snyk)
 * Tim Burress (GenLab)
