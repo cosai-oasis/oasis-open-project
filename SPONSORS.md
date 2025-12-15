@@ -37,7 +37,6 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [Javelin](https://www.getjavelin.com/) &bigstar;
 * [Legit Security](https://www.legitsecurity.com/) &bigstar;
 * [Lenovo](https://www.lenovo.com/) &bigstar;
-* [Magic Mirror Security](https://www.magicmirrorsecurity.com/) &bigstar;
 * [Meta](https://www.meta.com/) &bigtriangledown;
 * [Operant AI](https://www.operant.ai/) &bigstar;
 * [Palo Alto Networks](https://www.paloaltonetworks.com/) &bigtriangledown;
