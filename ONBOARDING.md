@@ -15,6 +15,7 @@ CoSAI's Technical Steering Committee (TSC) published Principles for Secure-by-De
 * [Signing ML Artifacts: Building towards tamper-proof ML metadata records](https://github.com/cosai-oasis/ws1-supply-chain/blob/main/signing-ml-artifacts.md)
 * [Preparing Defenders of AI Systems](https://github.com/cosai-oasis/ws2-defenders/blob/main/preparing-defenders-of-ai-systems.md)
 * [AI Incident Response Framework](https://github.com/cosai-oasis/ws2-defenders/blob/main/incident-response/AI%20Incident%20Response.md)
+* [Model Context Protocol (MCP) Security](https://github.com/cosai-oasis/ws4-secure-design-agentic-systems/blob/main/model-context-protocol-security.md)
 
 ## How to get involved
 
