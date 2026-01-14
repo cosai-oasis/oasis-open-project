@@ -39,7 +39,6 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [Lenovo](https://www.lenovo.com/) &bigstar;
 * [Meta](https://www.meta.com/) &bigtriangledown;
 * [Operant AI](https://www.operant.ai/) &bigstar;
-* [Palo Alto Networks](https://www.paloaltonetworks.com/) &bigtriangledown;
 * [Red Hat](https://www.redhat.com/en) &bigstar;
 * [SailPoint](https://www.sailpoint.com/) &bigstar;
 * [Snyk](https://www.snyk.io/) &bigstar; &bigtriangledown;
