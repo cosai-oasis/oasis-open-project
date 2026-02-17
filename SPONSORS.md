@@ -21,9 +21,9 @@ Starred (&bigstar;) organizations have taken the additional step of signing the 
 ## Sponsors
 * [Airia](https://airia.com/) &bigstar;
 * [Adversa AI](https://adversa.ai/) &bigstar;
+* [Alice (f/k/a ActiveFence)](https://alice.io/) 
 * [Cranium](https://www.cranium.ai) &bigstar;
-* [CipherData](https://www.cipherdata.ai/) &bigstar;
-* [CyberPeace Foundation](https://cyberpeace.org/)
+* [CyberPeace Foundation](https://cyberpeace.org/) &bigstar;
 * [Dell](https://www.dell.com/) &bigstar;
 * [Duke University](https://pratt.duke.edu/) &bigstar;
 * [EQTY Lab](https://www.eqtylab.io/) &bigstar;
