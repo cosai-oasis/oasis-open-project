@@ -37,7 +37,8 @@ Starred (&bigstar;) organizations have taken the additional step of signing the 
 * [Javelin](https://www.getjavelin.com/) &bigstar;
 * [Legit Security](https://www.legitsecurity.com/) &bigstar;
 * [Lenovo](https://www.lenovo.com/) &bigstar;
-* [Meta](https://www.meta.com/) &bigtriangledown;
+* [Meta](https://www.meta.com/) &bigstar; &bigtriangledown;
+* [Nebari](https://www.nebari.ai/)
 * [Operant AI](https://www.operant.ai/) &bigstar;
 * [Red Hat](https://www.redhat.com/en) &bigstar;
 * [SailPoint](https://www.sailpoint.com/) &bigstar;
