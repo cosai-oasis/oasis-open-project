@@ -28,7 +28,7 @@ We suggest you take a look at the [CoSAI Governance](https://github.com/cosai-oa
 **Every CoSAI contributor is required to sign a Contributor License Agreement (CLA).** You can sign the CLA at this link: [https://cla-assistant.io/cosai-oasis/oasis-open-project](https://cla-assistant.io/cosai-oasis/oasis-open-project).
 
 ### Workstream Mailing lists and meetings
-All CoSAI workstreams have public mailing lists. These lists are the official communication channels of each workstream. Make sure to subscribe to the list of your workstream(s). Once you subscribe, the CoSAI Program Managers will add you to the meeting invitation for your workstream.
+All CoSAI workstreams have public mailing lists. These lists are the official communication channels of each workstream. Make sure to subscribe to the list of your workstream(s). Once you subscribe, the CoSAI Program Managers will add you to the meeting invitation for your workstream. An overview of all current workstream and SIG meeting times can be found [here](https://lists.oasis-open-projects.org/g/cosai-op/calendar).
 
 * [WS1 Supply Chain Security WS list](https://lists.oasis-open-projects.org/g/cosai-supply-chain-ws/topics) – subscribe by sending an email to [cosai-supply-chain-ws+subscribe@lists.oasis-open-projects.org](mailto:cosai-supply-chain-ws+subscribe@lists.oasis-open-projects.org)
 * [WS2 Preparing Defenders WS list](https://lists.oasis-open-projects.org/g/cosai-defenders-ws/topics) – subscribe by sending an email to[cosai-defenders-ws+subscribe@lists.oasis-open-projects.org](mailto:cosai-defenders-ws+subscribe@lists.oasis-open-projects.org)
