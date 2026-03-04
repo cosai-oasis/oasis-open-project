@@ -22,7 +22,8 @@ Starred (&bigstar;) organizations have taken the additional step of signing the 
 * [Airia](https://airia.com/) &bigstar;
 * [Adversa AI](https://adversa.ai/) &bigstar;
 * [Alice (f/k/a ActiveFence)](https://alice.io/)
-* [CompFly AI](https://www.compfly.ai)
+* [Ben-Gurion University](https://www.bgu.ac.il/en/)
+* [CompFly AI](https://www.compfly.ai) &bigstar;
 * [Cranium](https://www.cranium.ai) &bigstar;
 * [CyberPeace Foundation](https://cyberpeace.org/) &bigstar;
 * [Dell](https://www.dell.com/) &bigstar;
@@ -39,7 +40,7 @@ Starred (&bigstar;) organizations have taken the additional step of signing the 
 * [Legit Security](https://www.legitsecurity.com/) &bigstar;
 * [Lenovo](https://www.lenovo.com/) &bigstar;
 * [Meta](https://www.meta.com/) &bigstar; &bigtriangledown;
-* [Nebari](https://www.nebari.ai/)
+* [Nebari](https://www.nebari.ai/) &bigstar;
 * [Operant AI](https://www.operant.ai/) &bigstar;
 * [Red Hat](https://www.redhat.com/en) &bigstar;
 * [SailPoint](https://www.sailpoint.com/) &bigstar;
