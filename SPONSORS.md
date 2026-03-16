@@ -19,8 +19,8 @@ Starred (&bigstar;) organizations have taken the additional step of signing the 
 * [WIZ](https://www.wiz.io/) &bigstar;
 
 ## Sponsors
-* [Airia](https://airia.com/) &bigstar;
 * [Adversa AI](https://adversa.ai/) &bigstar;
+* [Airia](https://airia.com/) &bigstar;
 * [Alice (f/k/a ActiveFence)](https://alice.io/)
 * [Ben-Gurion University](https://www.bgu.ac.il/en/)
 * [CompFly AI](https://www.compfly.ai) &bigstar;
@@ -34,9 +34,9 @@ Starred (&bigstar;) organizations have taken the additional step of signing the 
 * [HackerOne](https://www.hackerone.com/) &bigstar;
 * [Harvey](https://www.harvey.ai/) &bigstar;
 * [HiddenLayer](https://hiddenlayer.com/) &bigstar;
+* [Highflame](https://highflame.com/) &bigstar;
 * [Huawei Technologies](https://www.huawei.com/en/) &bigstar;
 * [Irregular (Pattern Labs Tech)](https://www.irregular.com/) 
-* [Javelin](https://www.getjavelin.com/) &bigstar;
 * [Legit Security](https://www.legitsecurity.com/) &bigstar;
 * [Lenovo](https://www.lenovo.com/) &bigstar;
 * [Meta](https://www.meta.com/) &bigstar; &bigtriangledown;
