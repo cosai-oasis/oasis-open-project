@@ -13,6 +13,7 @@ For information on joining sponsoring these projects or joining the governing bo
 * Iftach Orr, Alice (f/k/a ActiveFence)
 * Matt Saner, Amazon
 * Jason Clinton, Anthropic
+* Yisroel Mirsky (Ben-Gurion University)
 * Omar Santos, Cisco
 * Prutha Parikh, Cohere
 *	Anand Salodkar, CompFly AI
@@ -27,7 +28,7 @@ For information on joining sponsoring these projects or joining the governing bo
 * David LaBianca, Google (Co-Chair)
 * Nidhi Aggarwal, HackerOne
 * Tobias Boelter, Harvey AI
-* Malcom Harkins, HiddenLayer
+* Zach Hambrice, HiddenLayer
 * Jian Wang, Huawei
 * JR Rao, IBM
 * Dhinesh	Manoharan, Intel
@@ -50,6 +51,7 @@ For information on joining sponsoring these projects or joining the governing bo
 * James	Stewart, TrojAI
 * Manish Garg, VE3
 * Alon Schindel, WIZ
+* Rock Lambros, Zenity
 * Dhaval Parekh, Zscaler 	
 
 
