@@ -10,6 +10,13 @@ For more information on the goals of this effort, see the [project charter](./CH
 
 General questions about OASIS Open Projects may be directed to OASIS staff at [project-admin@lists.oasis-open-projects.org](mailto:project-admin@lists.oasis-open-projects.org).
 
+## Project Governing Board Co-Chairs and Membership
+
+* David LaBianca (Google)
+* Omar Santos (Cisco)
+
+A list of all PGB members can be found [here](https://github.com/cosai-oasis/oasis-open-project/blob/main/PROJECT-GOVERNING-BOARD.md).
+
 # Other assets
 
 In addition to this GitHub organization, this project also makes use of other assets. 
