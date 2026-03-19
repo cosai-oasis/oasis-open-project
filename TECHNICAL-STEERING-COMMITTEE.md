@@ -5,7 +5,6 @@ The TSC is made up out of representing [Premier Sponsors and Founding Sponsors](
 The following members constitute the TSC (in alphabetical order by first name):
 
 * Akila Srinivasan (Anthropic) - Co-Chair
-* Andre Elizondo (Wiz)
 * Daniel Rohrer (NVIDIA)
 * David Pierce (Paypal)
 * Debadatta Mishra (EY)
@@ -13,7 +12,7 @@ The following members constitute the TSC (in alphabetical order by first name):
 * JR Rao (IBM) – Co-Chair
 * Matt Maloney (Cohere)
 * Jason Garman (Amazon)
-* Josh Saxe (Meta Platforms)
+* Lauren Deason (Meta Platforms)
 * Michael	Scovetta (Microsoft)
 * Omar Santos (Cisco)
 * Parthy Chandrasekaran (Trend Micro)
