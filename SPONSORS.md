@@ -36,6 +36,7 @@ Starred (&bigstar;) organizations have taken the additional step of signing the 
 * [HiddenLayer](https://hiddenlayer.com/) &bigstar;
 * [Highflame](https://highflame.com/) &bigstar;
 * [Huawei Technologies](https://www.huawei.com/en/) &bigstar;
+* [Humana](https://www.humana.com/) &bigtriangledown;
 * [Irregular (Pattern Labs Tech)](https://www.irregular.com/) 
 * [Legit Security](https://www.legitsecurity.com/) &bigstar;
 * [Lenovo](https://www.lenovo.com/) &bigstar;
@@ -50,6 +51,7 @@ Starred (&bigstar;) organizations have taken the additional step of signing the 
 * [Thomson Reuters](http://thomsonreuters.com/) &bigstar;
 * [Trend Micro](https://www.trendmicro.com/) &bigstar; &bigtriangledown;
 * [TrojAI](https://www.troj.ai/) &bigstar;
+* [Universite du Quebec en Outaouis](https://uqo.ca/) 
 * [VE3](https://www.ve3.global/) &bigstar;
 * [Zenity](https://www.zenity.io/) &bigstar;
 * [Zscaler](https://www.zscaler.com/) &bigstar; &bigtriangledown;
