@@ -10,9 +10,10 @@ The following members constitute the TSC (in alphabetical order by first name):
 * Debadatta Mishra (EY)
 * Eoin Wickens (Hidden Layer)
 * JR Rao (IBM) – Co-Chair
-* Matt Maloney (Cohere)
+* Karttik Panda (OpenAI)
 * Jason Garman (Amazon)
 * Lauren Deason (Meta Platforms)
+* Matt Maloney (Cohere)
 * Michael	Scovetta (Microsoft)
 * Omar Santos (Cisco)
 * Parthy Chandrasekaran (Trend Micro)
