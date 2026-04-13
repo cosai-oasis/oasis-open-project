@@ -65,9 +65,5 @@ The goal of this workstream is to research and develop secure design patterns fo
 ### Google Drive
 CoSAI participants also use a Google Drive for draft documents. Once you join a workstream, you will be added to either the read or write group for the WS folder. **Please note:** write access is dependent on the signed [CLA](https://cla-assistant.io/cosai-oasis/oasis-open-project).
 
-### Slack
-Join the CoSAI Slack [via this link](https://join.slack.com/t/cosai-op/shared_invite/zt-2rbgqtolg-GdajCyOiddYtGJ3cSdk1Jg).
-
-
 ## Need help?
 If you need help with any of the tools, or if you have any questions on processes or CoSAI in general, please contact the OASIS team at [op-admin@oasis-open.org](mailto:op-admin@oasis-open.org ).
