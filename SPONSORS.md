@@ -16,13 +16,13 @@ Starred (&bigstar;) organizations have taken the additional step of signing the 
 * [NVIDIA](https://www.nvidia.com/en-us/) &bigstar; &bigtriangledown;
 * [OpenAI](https://openai.com/) &bigstar;
 * [PayPal](https://www.paypal.com/us/home) &bigstar; &bigtriangledown;
-* [WIZ](https://www.wiz.io/) &bigstar;
+* [Wiz](https://www.wiz.io/) &bigstar;
 
 ## Sponsors
 * [Adversa AI](https://adversa.ai/) &bigstar;
 * [Airia](https://airia.com/) &bigstar;
-* [Alice (f/k/a ActiveFence)](https://alice.io/)
-* [Ben-Gurion University](https://www.bgu.ac.il/en/)
+* [Alice (f/k/a ActiveFence)](https://alice.io/) &bigstar;
+* [Ben-Gurion University](https://www.bgu.ac.il/en/) &bigstar;
 * [CompFly AI](https://www.compfly.ai) &bigstar;
 * [Cranium](https://www.cranium.ai) &bigstar;
 * [CyberPeace Foundation](https://cyberpeace.org/) &bigstar;
@@ -45,13 +45,12 @@ Starred (&bigstar;) organizations have taken the additional step of signing the 
 * [Operant AI](https://www.operant.ai/) &bigstar;
 * [Red Hat](https://www.redhat.com/en) &bigstar;
 * [SailPoint](https://www.sailpoint.com/) &bigstar;
-* [Snyk](https://www.snyk.io/) &bigstar; &bigtriangledown;
 * [SOAISEC (Sovereign AISecurity) Labs](https://www.sovereignaisecurity.com/) &bigstar;
 * [Technical University of Munich](https://www.tum.de/en/) &bigstar;
 * [Thomson Reuters](http://thomsonreuters.com/) &bigstar;
 * [Trend Micro](https://www.trendmicro.com/) &bigstar; &bigtriangledown;
 * [TrojAI](https://www.troj.ai/) &bigstar;
-* [Universite du Quebec en Outaouis](https://uqo.ca/) 
+* [Universite du Quebec en Outaouis](https://uqo.ca/) &bigstar;
 * [VE3](https://www.ve3.global/) &bigstar;
 * [Zenity](https://www.zenity.io/) &bigstar;
 * [Zscaler](https://www.zscaler.com/) &bigstar; &bigtriangledown;
