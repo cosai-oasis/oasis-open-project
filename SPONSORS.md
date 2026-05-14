@@ -36,13 +36,14 @@ Starred (&bigstar;) organizations have taken the additional step of signing the 
 * [HiddenLayer](https://hiddenlayer.com/) &bigstar;
 * [Highflame](https://highflame.com/) &bigstar;
 * [Huawei Technologies](https://www.huawei.com/en/) &bigstar;
-* [Humana](https://www.humana.com/) &bigtriangledown;
+* [Humana](https://www.humana.com/) &bigstar; &bigtriangledown;
 * [Irregular (Pattern Labs Tech)](https://www.irregular.com/) 
 * [Legit Security](https://www.legitsecurity.com/) &bigstar;
 * [Lenovo](https://www.lenovo.com/) &bigstar;
 * [Meta](https://www.meta.com/) &bigstar; &bigtriangledown;
 * [Nebari](https://www.nebari.ai/) &bigstar;
 * [Operant AI](https://www.operant.ai/) &bigstar;
+* [QuilrAI](https://www.quilr.ai/)
 * [Red Hat](https://www.redhat.com/en) &bigstar;
 * [SailPoint](https://www.sailpoint.com/) &bigstar;
 * [SOAISEC (Sovereign AISecurity) Labs](https://www.sovereignaisecurity.com/) &bigstar;
