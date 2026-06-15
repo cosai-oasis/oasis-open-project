@@ -39,7 +39,7 @@ For information on joining sponsoring these projects or joining the governing bo
 * Guy	Arazi, Nebari
 * Daniel Rohrer, NVIDIA
 * Nick Hamilton, OpenAI
-* Priyanka Tembey, OpenAI
+* Priyanka Tembey, Operant
 * Sunil Mallik, Paypal
 * Vincent Danen, Red Hat
 * Jennings Aske, SailPoint
