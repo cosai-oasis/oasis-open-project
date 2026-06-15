@@ -30,25 +30,27 @@ For information on joining sponsoring these projects or joining the governing bo
 * Tobias Boelter, Harvey AI
 * Zach Hambrice, HiddenLayer
 * Jian Wang, Huawei
+* James Norberg (Humana)
 * JR Rao, IBM
 * Dhinesh	Manoharan, Intel
 * Sharath Rajasekar, Highflame (f/k/a) Javelin
 * Robert Michel, Lenovo
 * Scott	Bratsman, Meta Platforms
 * Nicholas Butts, Microsoft
-* Guy	Arazi, Nebari
 * Daniel Rohrer, NVIDIA
 * Nick Hamilton, OpenAI
 * Priyanka Tembey, Operant
 * Sunil Mallik, Paypal
+* Guy	Arazi, Pi Security
+* Mohamed Osman (QuilrAI)
 * Vincent Danen, Red Hat
 * Jennings Aske, SailPoint
 * Manoj Parmar, SOAISEC (Sovereign AISecurity) Labs
-* Geoff	Bibby, Snyk
 * Markus Sosnowski, Technical University of Munich (TUM)
 * Morgan Bjerke, Thomson Reuters
 * David Girard, Trend AI
 * James	Stewart, TrojAI
+* Alex Knol, TuxCare
 * Manish Garg, VE3
 * Alon Schindel, WIZ
 * Rock Lambros, Zenity
