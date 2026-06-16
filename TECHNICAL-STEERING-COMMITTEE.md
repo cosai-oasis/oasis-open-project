@@ -19,5 +19,4 @@ The following members constitute the TSC (in alphabetical order by first name):
 * Parthy Chandrasekaran (Trend Micro)
 * Peng Ning (Google)
 * Raghuram Yeluri (Intel)
-* Rudy Lai (Snyk)
 * Tim Burress (GenLab)
