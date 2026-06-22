@@ -70,7 +70,7 @@ The PGB can adjust the process for populating the TSC once the membership number
 The PGB can also reappoint or re-confirm the non-sponsor seats on an annual basis.
 
 #### TSC Chairs, PGB rep, and Maintainers
-The TSC has **two Co-Chairs** elected by the TSC with a [Full Majority Vote](https://www.oasis-open.org/policies-guidelines/oasis-defined-terms-2018-05-22/#dFullMajority). The Chairs of a TSC are responsible for preparing an agenda for each meeting, organizing and facilitating the meetings, making sure minutes are taken and published, and working with OASIS staff to schedule ballots. The Chairs should have a firm understanding of the technology under the TSC's purview.
+The TSC has **a mininmum of three Co-Chairs** elected by the TSC with a [Full Majority Vote](https://www.oasis-open.org/policies-guidelines/oasis-defined-terms-2018-05-22/#dFullMajority). The Chairs of a TSC are responsible for preparing an agenda for each meeting, organizing and facilitating the meetings, making sure minutes are taken and published, and working with OASIS staff to schedule ballots. The Chairs should have a firm understanding of the technology under the TSC's purview.
 
 The TSC has to select **one member to represent it on the PGB**. This representative’s organization shall not already be represented on the PGB to avoid any one organization having two votes on the PGB.
 
