@@ -5,6 +5,7 @@ The TSC is made up out of representing [Premier Sponsors and Founding Sponsors](
 The following members constitute the TSC (in alphabetical order by first name):
 
 * Akila Srinivasan (Anthropic) - Co-Chair
+* Courtenay Ngo (Microsoft)
 * Dalton House (Trend Micro)
 * Daniel Rohrer (NVIDIA)
 * David Pierce (Paypal)
@@ -13,7 +14,6 @@ The following members constitute the TSC (in alphabetical order by first name):
 * Karttik Panda (OpenAI)
 * Jason Garman (Amazon)
 * Klaudia Krawiecka (Meta Platforms)
-* Michael	Scovetta (Microsoft)
 * Omar Santos (Cisco)
 * Peng Ning (Google)
 * Raghuram Yeluri (Intel)
