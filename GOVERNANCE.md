@@ -1,6 +1,6 @@
 # CoSAI Open Project Governance 
 
-_This document was approved by the CoSAI PGB, 22 July 2024. Updates were approved by the PGB on 29 July 2024. Further updates were approved by the PGB on 22 October 2025._
+_This document was approved by the CoSAI PGB, 22 July 2024. Updates were approved by the PGB on 29 July 2024. Further updates were approved by the PGB on 22 October 2025. An update to the minimum number of TSC co-chairs was approved by the PGB on 7 July 2026._
 
 This document defines the Coalition for Secure AI (CoSAI) Open Project governance. This document changes infrequently by the process defined below.
 
