@@ -1,4 +1,4 @@
-_This document was approved by the CoSAI PGB, 21 August 2024. Further updates were approved by the PGB on 22 October 2025._
+_This document was approved by the CoSAI PGB, 21 August 2024. Further updates were approved by the PGB on 22 October 2025. An update to the minimum number of TSC co-chairs was approved by the PGB on 7 July 2026._
 
 # CoSAI TSC and Workstream Governance 
 
