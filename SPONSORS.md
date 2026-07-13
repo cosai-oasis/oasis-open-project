@@ -16,7 +16,6 @@ Starred (&bigstar;) organizations have taken the additional step of signing the 
 * [NVIDIA](https://www.nvidia.com/en-us/) &bigstar; &bigtriangledown;
 * [OpenAI](https://openai.com/) &bigstar;
 * [PayPal](https://www.paypal.com/us/home) &bigstar; &bigtriangledown;
-* [Wiz](https://www.wiz.io/) &bigstar;
 
 ## Sponsors
 * [Adversa AI](https://adversa.ai/) &bigstar;
