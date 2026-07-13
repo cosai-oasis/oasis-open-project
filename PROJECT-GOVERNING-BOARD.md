@@ -52,7 +52,6 @@ For information on joining sponsoring these projects or joining the governing bo
 * James	Stewart, TrojAI
 * Alex Knol, TuxCare
 * Manish Garg, VE3
-* Alon Schindel, WIZ
 * Rock Lambros, Zenity
 * Dhaval Parekh, Zscaler 	
 
