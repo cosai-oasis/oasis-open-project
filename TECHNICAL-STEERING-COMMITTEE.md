@@ -17,5 +17,4 @@ The following members constitute the TSC (in alphabetical order by first name):
 * Omar Santos (Cisco)
 * Peng Ning (Google)
 * Raghuram Yeluri (Intel)
-* Salim Afiune Maya (Wiz)
 * Tim Burress (GenLab)
