@@ -28,7 +28,6 @@ For information on joining sponsoring these projects or joining the governing bo
 * David LaBianca, Google (Co-Chair)
 * Nidhi Aggarwal, HackerOne
 * Tobias Boelter, Harvey AI
-* Zach Hambrice, HiddenLayer
 * Jian Wang, Huawei
 * James Norberg (Humana)
 * JR Rao, IBM
