@@ -32,7 +32,6 @@ Starred (&bigstar;) organizations have taken the additional step of signing the 
 * [Fraunhofer Institute for Applied and Integrated Security (AISEC)](https://www.aisec.fraunhofer.de/) &bigstar;
 * [HackerOne](https://www.hackerone.com/) &bigstar;
 * [Harvey](https://www.harvey.ai/) &bigstar;
-* [HiddenLayer](https://hiddenlayer.com/) &bigstar;
 * [Highflame](https://highflame.com/) &bigstar;
 * [Huawei Technologies](https://www.huawei.com/en/) &bigstar;
 * [Humana](https://www.humana.com/) &bigstar; &bigtriangledown;
