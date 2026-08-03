@@ -27,12 +27,13 @@ For information on joining sponsoring these projects or joining the governing bo
 * Vincent Gebes, GenLab
 * David LaBianca, Google (Co-Chair)
 * Nidhi Aggarwal, HackerOne
-* Tobias Boelter, Harvey AI
+* Joshua McKibben, Harvey AI
 * Jian Wang, Huawei
 * James Norberg (Humana)
 * JR Rao, IBM
 * Dhinesh	Manoharan, Intel
 * Sharath Rajasekar, Highflame (f/k/a) Javelin
+* Hugo Smith, JanitorAI
 * Robert Michel, Lenovo
 * Scott	Bratsman, Meta Platforms
 * Nicholas Butts, Microsoft
