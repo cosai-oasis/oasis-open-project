@@ -35,7 +35,8 @@ Starred (&bigstar;) organizations have taken the additional step of signing the 
 * [Highflame](https://highflame.com/) &bigstar;
 * [Huawei Technologies](https://www.huawei.com/en/) &bigstar;
 * [Humana](https://www.humana.com/) &bigstar; &bigtriangledown;
-* [Irregular (Pattern Labs Tech)](https://www.irregular.com/) 
+* [Irregular (Pattern Labs Tech)](https://www.irregular.com/)
+* [JanitorAI, Inc](https://janitorai.com/safety)
 * [Legit Security](https://www.legitsecurity.com/) &bigstar;
 * [Lenovo](https://www.lenovo.com/) &bigstar;
 * [Meta](https://www.meta.com/) &bigstar; &bigtriangledown;
