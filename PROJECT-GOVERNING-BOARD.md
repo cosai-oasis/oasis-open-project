@@ -27,6 +27,7 @@ For information on joining sponsoring these projects or joining the governing bo
 * Vincent Gebes, GenLab
 * David LaBianca, Google (Co-Chair)
 * Nidhi Aggarwal, HackerOne
+* Pushpak Pujari, Harden
 * Joshua McKibben, Harvey AI
 * Jian Wang, Huawei
 * James Norberg (Humana)
