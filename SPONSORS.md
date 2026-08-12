@@ -31,6 +31,7 @@ Starred (&bigstar;) organizations have taken the additional step of signing the 
 * [EY](https://www.ey.com/en_us) &bigstar; &bigtriangledown; 
 * [Fraunhofer Institute for Applied and Integrated Security (AISEC)](https://www.aisec.fraunhofer.de/) &bigstar;
 * [HackerOne](https://www.hackerone.com/) &bigstar;
+* [Harden](https://harden.run)
 * [Harvey](https://www.harvey.ai/) &bigstar;
 * [Highflame](https://highflame.com/) &bigstar;
 * [Huawei Technologies](https://www.huawei.com/en/) &bigstar;
