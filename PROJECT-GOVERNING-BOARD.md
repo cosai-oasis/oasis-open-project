@@ -47,7 +47,7 @@ For information on joining sponsoring these projects or joining the governing bo
 * Vincent Danen, Red Hat
 * Jennings Aske, SailPoint
 * Manoj Parmar, SOAISEC (Sovereign AISecurity) Labs
-* Markus Sosnowski, Technical University of Munich (TUM)
+* Dan Lionis, Technical University of Munich (TUM)
 * Ryan Cosgrove, Thomson Reuters
 * David Girard, Trend AI
 * James	Stewart, TrojAI
