@@ -48,7 +48,7 @@ For information on joining sponsoring these projects or joining the governing bo
 * Jennings Aske, SailPoint
 * Manoj Parmar, SOAISEC (Sovereign AISecurity) Labs
 * Markus Sosnowski, Technical University of Munich (TUM)
-* Morgan Bjerke, Thomson Reuters
+* Ryan Cosgrove, Thomson Reuters
 * David Girard, Trend AI
 * James	Stewart, TrojAI
 * Alex Knol, TuxCare
