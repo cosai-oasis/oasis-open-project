@@ -38,7 +38,6 @@ Starred (&bigstar;) organizations have taken the additional step of signing the 
 * [Humana](https://www.humana.com/) &bigstar; &bigtriangledown;
 * [Irregular (Pattern Labs Tech)](https://www.irregular.com/)
 * [JanitorAI, Inc](https://janitorai.com/safety)
-* [Legit Security](https://www.legitsecurity.com/) &bigstar;
 * [Lenovo](https://www.lenovo.com/) &bigstar;
 * [Meta](https://www.meta.com/) &bigstar; &bigtriangledown;
 * [Nebari](https://www.nebari.ai/) &bigstar;
