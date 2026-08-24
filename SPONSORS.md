@@ -47,6 +47,7 @@ Starred (&bigstar;) organizations have taken the additional step of signing the 
 * [SailPoint](https://www.sailpoint.com/) &bigstar;
 * [SOAISEC (Sovereign AISecurity) Labs](https://www.sovereignaisecurity.com/) &bigstar;
 * [Technical University of Munich](https://www.tum.de/en/) &bigstar;
+* [Teleport](https://goteleport.com/)
 * [Thomson Reuters](http://thomsonreuters.com/) &bigstar;
 * [TrendAI](https://www.trendmicro.com/) &bigstar; &bigtriangledown;
 * [TrojAI](https://www.troj.ai/) &bigstar;
