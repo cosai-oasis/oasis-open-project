@@ -43,7 +43,7 @@ For information on joining sponsoring these projects or joining the governing bo
 * Priyanka Tembey, Operant
 * Sunil Mallik, Paypal
 * Guy	Arazi, Pi Security
-* Mohamed Osman (QuilrAI)
+* Halim Chi, QuilrAI
 * Vincent Danen, Red Hat
 * Jennings Aske, SailPoint
 * Manoj Parmar, SOAISEC (Sovereign AISecurity) Labs
