@@ -55,6 +55,5 @@ Starred (&bigstar;) organizations have taken the additional step of signing the 
 * [Universite du Quebec en Outaouis](https://uqo.ca/) &bigstar;
 * [VE3](https://www.ve3.global/) &bigstar;
 * [Zenity](https://www.zenity.io/) &bigstar;
-* [Zscaler](https://www.zscaler.com/) &bigstar; &bigtriangledown;
   
   
