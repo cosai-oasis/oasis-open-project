@@ -54,6 +54,5 @@ For information on joining sponsoring these projects or joining the governing bo
 * Alex Knol, TuxCare
 * Manish Garg, VE3
 * Kayla Underkoffler, Zenity
-* Dhaval Parekh, Zscaler 	
 
 
