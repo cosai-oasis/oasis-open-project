@@ -50,7 +50,6 @@ Starred (&bigstar;) organizations have taken the additional step of signing the 
 * [Teleport](https://goteleport.com/)
 * [Thomson Reuters](http://thomsonreuters.com/) &bigstar;
 * [TrendAI](https://www.trendmicro.com/) &bigstar; &bigtriangledown;
-* [TrojAI](https://www.troj.ai/) &bigstar;
 * [TuxCare](https://www.tuxcare.com/) 
 * [Universite du Quebec en Outaouis](https://uqo.ca/) &bigstar;
 * [VE3](https://www.ve3.global/) &bigstar;
