@@ -50,7 +50,7 @@ For information on joining sponsoring these projects or joining the governing bo
 * Dan Lionis, Technical University of Munich (TUM)
 * Ryan Cosgrove, Thomson Reuters
 * David Girard, Trend AI
-* James	Stewart, TrojAI
+
 * Alex Knol, TuxCare
 * Manish Garg, VE3
 * Kayla Underkoffler, Zenity
