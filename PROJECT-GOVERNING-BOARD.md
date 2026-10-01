@@ -9,7 +9,6 @@ For information on joining sponsoring these projects or joining the governing bo
 ## PGB Members
 
 * Alex Polyakov, Adversa AI	
-* Rahul Parwani, Airia
 * Iftach Orr, Alice (f/k/a ActiveFence)
 * Matt Saner, Amazon
 * Jason Clinton, Anthropic
