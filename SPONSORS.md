@@ -19,7 +19,6 @@ Starred (&bigstar;) organizations have taken the additional step of signing the 
 
 ## Sponsors
 * [Adversa AI](https://adversa.ai/) &bigstar;
-* [Airia](https://airia.com/) &bigstar;
 * [Alice (f/k/a ActiveFence)](https://alice.io/) &bigstar;
 * [Ben-Gurion University](https://www.bgu.ac.il/en/) &bigstar;
 * [CompFly AI](https://www.compfly.ai) &bigstar;
