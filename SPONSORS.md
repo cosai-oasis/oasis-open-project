@@ -41,7 +41,7 @@ Starred (&bigstar;) organizations have taken the additional step of signing the 
 * [Meta](https://www.meta.com/) &bigstar; &bigtriangledown;
 * [Nebari](https://www.nebari.ai/) &bigstar;
 * [Operant AI](https://www.operant.ai/) &bigstar;
-* [Pretxt](https://pretxt.ai/)
+* [Pretxt](https://pretxt.ai/) &bigstar;
 * [QuilrAI](https://www.quilr.ai/) &bigstar;
 * [Red Hat](https://www.redhat.com/en) &bigstar;
 * [SailPoint](https://www.sailpoint.com/) &bigstar;
