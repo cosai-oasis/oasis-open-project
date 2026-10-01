@@ -30,17 +30,18 @@ Starred (&bigstar;) organizations have taken the additional step of signing the 
 * [EY](https://www.ey.com/en_us) &bigstar; &bigtriangledown; 
 * [Fraunhofer Institute for Applied and Integrated Security (AISEC)](https://www.aisec.fraunhofer.de/) &bigstar;
 * [HackerOne](https://www.hackerone.com/) &bigstar;
-* [Harden](https://harden.run)
+* [Harden](https://harden.run) &bigstar;
 * [Harvey](https://www.harvey.ai/) &bigstar;
 * [Highflame](https://highflame.com/) &bigstar;
 * [Huawei Technologies](https://www.huawei.com/en/) &bigstar;
 * [Humana](https://www.humana.com/) &bigstar; &bigtriangledown;
 * [Irregular (Pattern Labs Tech)](https://www.irregular.com/)
-* [JanitorAI, Inc](https://janitorai.com/safety)
+* [JanitorAI, Inc](https://janitorai.com/safety) &bigstar;
 * [Lenovo](https://www.lenovo.com/) &bigstar;
 * [Meta](https://www.meta.com/) &bigstar; &bigtriangledown;
 * [Nebari](https://www.nebari.ai/) &bigstar;
 * [Operant AI](https://www.operant.ai/) &bigstar;
+* [Pretxt](https://pretxt.ai/)
 * [QuilrAI](https://www.quilr.ai/) &bigstar;
 * [Red Hat](https://www.redhat.com/en) &bigstar;
 * [SailPoint](https://www.sailpoint.com/) &bigstar;
@@ -49,7 +50,7 @@ Starred (&bigstar;) organizations have taken the additional step of signing the 
 * [Teleport](https://goteleport.com/)
 * [Thomson Reuters](http://thomsonreuters.com/) &bigstar;
 * [TrendAI](https://www.trendmicro.com/) &bigstar; &bigtriangledown;
-* [TuxCare](https://www.tuxcare.com/) 
+* [TuxCare](https://www.tuxcare.com/) &bigstar;
 * [Universite du Quebec en Outaouis](https://uqo.ca/) &bigstar;
 * [VE3](https://www.ve3.global/) &bigstar;
 * [Zenity](https://www.zenity.io/) &bigstar;
