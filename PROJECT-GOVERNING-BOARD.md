@@ -42,6 +42,7 @@ For information on joining sponsoring these projects or joining the governing bo
 * Priyanka Tembey, Operant
 * Sunil Mallik, Paypal
 * Guy	Arazi, Pi Security
+* Brian Soby, Pretxt
 * Halim Chi, QuilrAI
 * Vincent Danen, Red Hat
 * Jennings Aske, SailPoint
@@ -49,7 +50,6 @@ For information on joining sponsoring these projects or joining the governing bo
 * Dan Lionis, Technical University of Munich (TUM)
 * Ryan Cosgrove, Thomson Reuters
 * David Girard, Trend AI
-
 * Alex Knol, TuxCare
 * Manish Garg, VE3
 * Kayla Underkoffler, Zenity
