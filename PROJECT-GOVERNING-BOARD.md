@@ -18,7 +18,6 @@ For information on joining sponsoring these projects or joining the governing bo
 *	Anand Salodkar, CompFly AI
 *	Dan	Carroll, Cranium
 * Vineet Kumar, CyberPeace
-* Marina Zeldin, Dell
 * Art Ehuan, Duke University
 * Sarah	Liang, EY
 * Dr. Konstantin Böttinger, Fraunhofer AISEC
