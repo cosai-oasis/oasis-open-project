@@ -24,7 +24,6 @@ Starred (&bigstar;) organizations have taken the additional step of signing the 
 * [CompFly AI](https://www.compfly.ai) &bigstar;
 * [Cranium](https://www.cranium.ai) &bigstar;
 * [CyberPeace Foundation](https://cyberpeace.org/) &bigstar;
-* [Dell](https://www.dell.com/) &bigstar;
 * [Duke University](https://pratt.duke.edu/) &bigstar;
 * [EQTY Lab](https://www.eqtylab.io/) &bigstar;
 * [EY](https://www.ey.com/en_us) &bigstar; &bigtriangledown; 
